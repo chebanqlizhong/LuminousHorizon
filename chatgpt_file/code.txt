@@ -1,81 +1,29 @@
-@echo off
-chcp 65001 >nul 2>&1
-setlocal enableextensions enabledelayedexpansion
-
-set "datafile=tasks.txt"
-set "delimiter=|"
-set "header=编号|任务名称|截止时间|备注"
-set /a "task_id=0"
-
-:: 初始化任务列表
-if not exist "%datafile%" echo %header% > "%datafile%"
-
-:: 主循环
-:menu
-cls
-echo.
-echo =====================
-echo     每日任务管理器
-echo =====================
-echo.
-echo 1. 添加任务
-echo 2. 修改任务
-echo 3. 删除任务
-echo 4. 查看任务列表
-echo 5. 退出
-echo.
-
-set /p "choice=请输入操作编号："
-
-if "%choice%"=="1" (
-    set /p "name=请输入任务名称："
-    set /p "deadline=请输入截止时间："
-    set /p "remark=请输入备注："
-    set /a "task_id+=1"
-    echo !task_id!%delimiter%!name!%delimiter%!deadline!%delimiter%!remark!>> "%datafile%"
-    echo 任务已添加！
-    pause >nul
-    goto menu
-) else if "%choice%"=="2" (
-    set /p "id=请输入要修改的任务编号："
-    set /p "name=请输入新的任务名称："
-    set /p "deadline=请输入新的截止时间："
-    set /p "remark=请输入新的备注："
-    set "tempfile=%temp%\%random%.txt"
-    for /f "tokens=1,* delims=%delimiter%" %%a in ('type "%datafile%" ^& echo. ^| findstr /b "%id%%delimiter%"') do (
-        echo %%a%delimiter%!name!%delimiter%!deadline!%delimiter%!remark!>> "%tempfile%"
-        echo 任务已修改！
-        pause >nul
-    )
-    findstr /v /b "%id%%delimiter%" "%datafile%" >> "%tempfile%"
-    move /y "%tempfile%" "%datafile%" >nul
-    goto menu
-) else if "%choice%"=="3" (
-    set /p "id=请输入要删除的任务编号："
-    set "tempfile=%temp%\%random%.txt"
-    for /f "tokens=1,* delims=%delimiter%" %%a in ('type "%datafile%" ^& echo. ^| findstr /b "%id%%delimiter%"') do (
-        echo 任务已删除！
-        pause >nul
-    )
-    findstr /v /b "%id%%delimiter%" "%datafile%" >> "%tempfile%"
-    move /y "%tempfile%" "%datafile%" >nul
-    goto menu
-) else if "%choice%"=="4" (
-    cls
-    echo.
-    echo =====================
-    echo        任务列表
-    echo =====================
-    echo.
-    echo %header%
-    for /f "tokens=1,* delims=%delimiter%" %%a in ('type "%datafile%" ^& echo. ^| sort') do (
-        echo %%a%delimiter%%%b%delimiter%%%c%delimiter%%%d%
-    )
-    pause >nul
-    goto menu
-) else if "%choice%"=="5" (
-    exit /b
-) else (
-    echo 输入错误，请重新输入！
-    pause >nul
-    goto
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>only-child选择器的使用</title>
+<style type="text/css">
+   strong:only-child{
+   	color: red;
+   }
+   p>strong:nth-child(2){
+   	color: lawngreen;
+   }
+</style>
+</head>
+<body>
+	<p>
+    	<strong>一代宗师</strong>
+    	<strong>英雄</strong>
+    </p>
+	<p>
+    	<strong>复仇者联盟4</strong>
+    </p>
+	<p>
+    	<strong>非诚勿扰</strong>
+    	<strong>火影忍者</strong>
+        <strong>进击的巨人</strong>
+    </p>
+</body>
+</html>
