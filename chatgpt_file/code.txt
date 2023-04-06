@@ -1,29 +1,16 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>only-child选择器的使用</title>
-<style type="text/css">
-   strong:only-child{
-   	color: red;
-   }
-   p>strong:nth-child(2){
-   	color: lawngreen;
-   }
-</style>
-</head>
-<body>
-	<p>
-    	<strong>一代宗师</strong>
-    	<strong>英雄</strong>
-    </p>
-	<p>
-    	<strong>复仇者联盟4</strong>
-    </p>
-	<p>
-    	<strong>非诚勿扰</strong>
-    	<strong>火影忍者</strong>
-        <strong>进击的巨人</strong>
-    </p>
-</body>
-</html>
+招聘信息
+
+北京厚石人和信息科技招聘人才
+
+上海微甲网络科技招聘工程师
+
+永特三六五公司招聘网络管理员
+
+中国科学技术研究所招聘实习生
+
+Unity科学技术工厂所招聘实习生
+
+上海368网络科技招聘工程师
+
+杭州点点咨询公司招聘网络管理员
+
