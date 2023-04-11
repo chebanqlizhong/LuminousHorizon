@@ -1,16 +1,2226 @@
-招聘信息
 
-北京厚石人和信息科技招聘人才
+<!DOCTYPE html>
+<html>
+    <head>
+        <script type="text/javascript">
+            navigator.sayswho = (function(){
+                var ua= navigator.userAgent, tem,
+                M= ua.match(/(opera|chrome|safari|firefox|msie|trident(?=\/))\/?\s*(\d+)/i) || [];
+                if(/trident/i.test(M[1])){
+                    tem=  /\brv[ :]+(\d+)/g.exec(ua) || [];
+                    return 'IE '+(tem[1] || '');
+                }
+                if(M[1]=== 'Chrome'){
+                    tem= ua.match(/\b(OPR|Edge)\/(\d+)/);
+                    if(tem!= null) return tem.slice(1).join(' ').replace('OPR', 'Opera');
+                }
+                M= M[2]? [M[1], M[2]]: [navigator.appName, navigator.appVersion, '-?'];
+                if((tem= ua.match(/version\/(\d+)/i))!= null) M.splice(1, 1, tem[1]);
+                return M.join(' ');
+            })();
 
-上海微甲网络科技招聘工程师
+                    </script>
 
-永特三六五公司招聘网络管理员
+        <title>计算机系列丛书 — 书集 | Z-Library</title>
+<base href="/">
 
-中国科学技术研究所招聘实习生
+                        <meta charset="utf-8">		                       
+                        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+                        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                        <meta name="viewport" content="width=device-width, initial-scale=1">
+                        <meta name="title" content="计算机系列丛书 — 书集 | Z-Library">
+			<meta name="description" content="计算机系列丛书 — 书集 | Z-Library | Z-Library. Download books for free. Find books">
+			<meta name="robots" content="index,all">
+			<meta name="distribution" content="global">
+			<meta http-equiv="cache-control" content="no-cache">
+			<meta http-equiv="pragma" content="no-cache">
 
-Unity科学技术工厂所招聘实习生
+                        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=1">
+                        <link rel="icon" href="favicon.svg">
+                        <link rel="icon" type="image/svg+xml" href="/favicon-32x32.svg?v=2" sizes="32x32">
+                        <link rel="icon" type="image/svg+xml" href="/favicon-16x16.svg?v=2" sizes="16x16">
+                        <link rel="manifest" href="/manifest.json?v=1" crossorigin="use-credentials">
+                        <link rel="mask-icon" href="/safari-pinned-tab.svg?v=1" color="#5bbad5">
+                        <meta name="apple-mobile-web-app-title" content="Z-Library">
+                        <meta name="application-name" content="Z-Library">
+                        <meta name="theme-color" content="#ffffff">
 
-上海368网络科技招聘工程师
+                        <meta name="propeller" content="49c350d528ba144cace841cac74260ab">
+                        <meta name="alfacoins-site-verification" content="5ef0e7b2483f15ef0e7b2484275ef0e7b24845d_ALFAcoins">
+                        <meta name="format-detection" content="telephone=no">
+	
+<!-- CSS SET -->
+<!-- JS SET --> 
+<link REL="SHORTCUT ICON" HREF="/favicon.ico?v=1">
+        <link rel="search" type="application/opensearchdescription+xml" href="/search.xml" title="在图书馆搜索书籍 Z-Library" />
 
-杭州点点咨询公司招聘网络管理员
+                    <link rel="stylesheet" type="text/css" href="/resources/build/global.css?0.551" />
+            <script type="text/javascript" src="/resources/build/global.js?0.551"></script>
+        <link rel="stylesheet" type="text/css" href="/resources/css/pages/readlists.css?0.551" />
+<script type="text/javascript" src="/resources/ext/masonry.pkgd.min.js?0.551"></script>
+<script type="text/javascript" src="/resources/ext/infinite-scroll.pkgd.min.js?0.551"></script>
+<script type="text/javascript" src="/resources/ext/imagesloaded.pkgd.min.js?0.551"></script>
+        <noscript>
+            <link rel="stylesheet" type="text/css" href="/resources/css/noscript.css?0.551" />
+        </noscript>
+
+        
+        <script>
+            window != top ? window.stop() : null;
+                        
+            const Config = {"domainHost":"booksc.eu","BRegion":"asia","Country":"JP","accessByIp":false,"supportEmail":"support@z-lib.se"};
+            const CurrentUser = new User({"id":32352810});
+            const CurrentClientIP = "117.109.44.95";
+            const CurrentSiteMode = 'books';
+            const proxiesToCheck = []; //for google verification
+
+            i18next
+                .use(i18nextHttpBackend)
+                .init({
+                    lng: 'zh',
+                    fallbackLng: 'en',
+                    backend: {
+                        loadPath: '/resources/build/translations-frontend/{{lng}}?v=0.551'
+                    }
+                })
+
+            $(document).ready(function() {
+                $('.tooltip-init').tooltip({html: true})
+
+                                    CurrentUser.markDownloadedBooks()
+                            })
+
+            $(document).on('focus', '.form-email-field', function() {
+                $(this).tooltip('hide')
+            })
+
+            $(document).on('change', '.form-email-field', function() {
+                const $input = $(this)
+                const email = $input.val()
+
+                $input.parents('.form-group').find('.form-error').remove()
+                $.each(["appzily.com","robhung.com","shackvine.com","robhung.com,","spruzme.com"], function(key, domain) {
+                    if (email.indexOf(domain) !== -1) {
+                        $input.tooltip({
+                            placement: 'top',
+                            trigger: 'manual',
+                            title: $input.data('message'),
+                        }).tooltip('show')
+                    }
+                })
+            })
+
+            $(document).on('focus', '.form-email-field', function() {
+                $(this).tooltip('hide')
+            });
+
+            
+        </script>
+            </head>
+
+    <body style="margin:0px;padding:0px;" class="booklist/view" data-proxy="false">
+                <table class="super-puper-main-container" border="0" cellpadding="0" cellspacing="0">
+            <tbody>
+                                <tr style="height:10px;">
+                    <td style="vertical-align: top;">
+                        <div class="container-fluid">
+                            
+
+
+<div class="row">
+    <div class="col-md-12">
+        
+<style>
+    div#colorBoxes
+    {
+        text-transform: capitalize;
+    }
+
+    div#colorBoxes ul li.active:nth-child(1)
+    {
+        border: 1px solid #378096;
+        box-shadow: 0 0 6px #7DBCCF;
+        border-top: 0px;
+    }
+
+    div#colorBoxes ul li.active:nth-child(2)
+    {
+        border: 1px solid #6e9b41;
+        box-shadow: 0 0 6px #a4e861;
+        border-top: 0px;
+    }
+</style>
+
+
+<div id="colorBoxes">
+    <ul>
+        <li style="background: #49afd0;" class="" data-sitemode="books">
+            <a href="/" class="header-main-nav-link ">
+                <span class="hidden-xs">12,331,764 书</span>
+                <span class="visible-xs">书</span>
+            </a>
+        </li>
+
+        <li style="background: #8ecd51;" data-sitemode="articles">
+            <a href="https://articles-x3aoyrfj3iz4p66pj3krg6nw.booksc.eu" class="header-main-nav-link ">
+                <span class="hidden-xs">84,837,643 文章</span>
+                <span class="visible-xs">文章</span>
+            </a>
+        </li>
+
+        <li class="visible-xs colorBoxesLink ">
+            <a href="/howtodonate.php" style="color: #8CCC4F">捐款</a>        </li>
+    </ul>
+</div>
+
+
+
+        <div role="navigation" class="navbar-default navbar-right" style="background-color: transparent;">
+
+            <div class="navbar-upd">
+                                    <li class="dropdown tabsTopMenu">
+                                            </li>
+                    <!-- Admin menu dropdown -->
+                                                       
+                    <a href="/howtodonate.php" class="navbar-upd__donate">捐款</a>
+                <div class="navbar-upd__search">
+                    <label for="navbar-upd-search" class="navbar-upd__search-btn">
+                        <i class="navbar-upd__search-pic zlibicon-search-bold"></i>
+                    </label>
+                    <input class="drop-opener-input" type="checkbox" id="navbar-upd-search" autocomplete="off">
+                    <div class="field-drop search-upd">
+                        <form role="search" class="search-upd__form" method="get" action="/s/" name="quickSearch">
+                            <input class="search-upd__input" type="text" name="q" placeholder="按名称、作者、ISBN、出版社、MD5...搜索。">
+                            <button type="reset" class="search-upd__reset"><i class="zlibicon-cross"></i></button>
+                        </form>
+                    </div>
+                </div>
+                <div class="navbar-upd__menu">
+                    <label for="navbar-upd-menu" id="profileMenu">
+                        <div class="upd-burger js-burger-toggler">
+                            <div class="upd-burger__bar"></div>
+                            <div class="upd-burger__bar"></div>
+                            <div class="upd-burger__bar"></div>
+                        </div>
+                    </label>
+                    <input class="drop-opener-input" type="checkbox" id="navbar-upd-menu" autocomplete="off">
+                    <div class="field-drop menu-upd ">
+                        <div class="menu-upd__user-data">
+                            <div class="user-data">
+                                                                                                    <div class="user-data__compact-toggler js-compact-toggle no-js-hide"><i class="zlibicon-angle-bracket-right"></i></div>
+                                    <div class="user-data__auth-inner">
+                                        <div class="user-data__auth-stats">
+                                            <a href="/profile.php" class="user-data__name" data-menu-toggle="tooltip" data-placement="bottom" data-original-title="用户信息">
+                                                linroon                                            </a>
+
+                                                                                            <a href="/plans.php" class="user-data__status" data-menu-toggle="tooltip" data-placement="bottom" data-original-title="Basic">
+                                                    <img class="user-data__status-pic _grey" src="/img/icon-user.svg">
+                                                    <span class="user-data__status-text">初级账户</span>
+                                                </a>
+                                                                                                    <a href="/howtodonate.php" class="user-data__upgrade"></a>
+                                                                                                                                    </div>
+
+                                        <div class="user-data__auth-info">
+                                            <div class="user-data__stats">
+                                                <div class="user-data__stats-item" data-menu-toggle="tooltip" data-placement="bottom" data-original-title="Daily limit">
+                                                    <div class="user-data__stats-title">
+                                                        <i class="zlibicon-download"></i>
+                                                        <span>每日限额</span>
+                                                    </div>
+                                                    <div class="user-data__stats-value">
+                                                        3/10                                                    </div>
+                                                </div>
+                                                <div class="user-data__stats-item" data-menu-toggle="tooltip" data-placement="bottom" data-original-title="Donation">
+                                                    <div class="user-data__stats-title">
+                                                        <i class="zlibicon-dollar"></i>
+                                                        <span>Donation</span>
+                                                    </div>
+                                                    <div class="user-data__stats-value">$0</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                                                            <div class="user-data__personal">
+                                            <div class="user-data__personal-title">
+                                                <i class="zlibicon-key"></i>
+                                                    you have a personal access!                                            </div>
+                                            <div class="user-data__personal-note">
+                                                Bookmark your personal domain <br /> for quick access                                            </div>
+                                            <div class="user-data__personal-links">
+                                                <div class="user-data__personal-link">
+                                                    <a href="https://lib-pyvfleov2hccwdvgm2zstlsm.booksc.eu/login?remix_userkey=9baa920314163f58630af6a539684e27" data-link="https://lib-pyvfleov2hccwdvgm2zstlsm.booksc.eu">Link 1</a>
+                                                    <i class="zlibicon-copy js-copy-link"></i>
+                                                </div>
+                                                <div class="user-data__personal-link">
+                                                    <a href="https://lib-tgyv6zpxht5szav432ohj6yk.b-ok.africa/login?remix_userkey=9baa920314163f58630af6a539684e27" data-link="https://lib-tgyv6zpxht5szav432ohj6yk.b-ok.africa">Link 2</a>
+                                                    <i class="zlibicon-copy js-copy-link"></i>
+                                                </div>
+                                            </div>
+                                            <a href="/profile.php" class="user-data__personal-about">What’s this?</a>
+                                        </div>
+                                    
+                                    <div class="user-data__bottom">
+                                        <a href="/profileEdit.php" class="user-data__bottom-link">
+                                            <i class="zlibicon-settings" data-menu-toggle="tooltip" data-original-title="编辑个人资料"></i>
+                                            <span>编辑个人资料</span>
+                                        </a>
+                                        <a href="/logout.php" class="user-data__bottom-link">
+                                            <i class="zlibicon-logout" data-menu-toggle="tooltip" data-original-title="登出"></i>
+                                            <span>登出</span>
+                                        </a>
+                                    </div>
+                                
+                            </div>
+                        </div>
+
+
+                        <div class="menu-upd__content">
+                            <div class="menu-cats">
+                                                                <div class="menu-cats__item">
+                                    <div class="menu-cats__item-title _active js-cat-toggler" data-cat="personal">Personal<i class="menu-item__arr zlibicon-slider-arr-right"></i></div>
+                                    <div class="menu-cats__links" style="display: block;">
+                                                                                    <!-- <a href="#" class="menu-item">
+                                                <i class="menu-item__icon zlibicon-z-feed"></i>
+                                                <span class="menu-item__text">Z-Feed</span>
+                                                <span class="new-label">new</span>
+                                            </a> -->
+                                            <a href="/users/favorites" class="menu-item">
+                                                <i class="menu-item__icon zlibicon-favourite"></i>
+                                                <span class="menu-item__text">收藏夹</span>
+                                            </a>
+                                            <a href="/users/dstats.php" class="menu-item">
+                                                <i class="menu-item__icon zlibicon-history"></i>
+                                                <span class="menu-item__text">下载历史</span>
+                                            </a>
+                                                                                            <a href="/users/zalerts.php" class="menu-item">
+                                                    <i class="menu-item__icon zlibicon-zalerts"></i>
+                                                    <span class="menu-item__text">Z-Alerts</span>
+                                                </a>
+                                                                                                                                                                        <a href="/request.php?tab=my&fltr=active" class="menu-item">
+                                                <i class="menu-item__icon zlibicon-request"></i>
+                                                <span class="menu-item__text">书籍请求</span>
+                                            </a>
+                                                                            </div>
+                                </div>
+                                                                <div class="menu-cats__item">
+                                    <div class="menu-cats__item-title js-cat-toggler" data-cat="explore">Explore<i class="menu-item__arr zlibicon-slider-arr-right"></i></div>
+                                    <div class="menu-cats__links">
+                                                                                                                            <a href="users/zrecomended.php" class="menu-item no-js-hide">
+                                                <i class="menu-item__icon zlibicon-recomended-feature"></i>
+                                                <span class="menu-item__text">Z-Recommend</span>
+                                                <span class="new-label">new</span>
+                                            </a>
+                                            <a href="/booklists/my" class="menu-item">
+                                                <i class="menu-item__icon zlibicon-booklist"></i>
+                                                <span class="menu-item__text">书单</span>
+                                            </a>
+                                            <a href="/popular.php" class="menu-item">
+                                                <i class="menu-item__icon zlibicon-popular"></i>
+                                                <span class="menu-item__text"> 最受欢迎</span>
+                                            </a>
+                                            <a href="/recently.php" class="menu-item">
+                                                <i class="menu-item__icon zlibicon-recently"></i>
+                                                <span class="menu-item__text"> 最近添加</span>
+                                            </a>
+                                            <a href="/category-list" class="menu-item">
+                                                <i class="menu-item__icon zlibicon-categories"></i>
+                                                <span class="menu-item__text"> 种类</span>
+                                            </a>
+                                                                            </div>
+                                </div>
+                                <div class="menu-cats__item">
+                                    <div class="menu-cats__item-title js-cat-toggler" data-cat="contribution">Contribution<i class="menu-item__arr zlibicon-slider-arr-right"></i></div>
+                                    <div class="menu-cats__links">
+                                        <a href="/howtodonate.php" class="menu-item"><i class="menu-item__icon zlibicon-dollar"></i><span class="menu-item__text">捐款</a>
+                                        
+                                                                                    <a href="/book-add.php" class="menu-item">
+                                                <i class="menu-item__icon zlibicon-upload"></i>
+                                                <span class="menu-item__text"> 上载</span>
+                                            </a>
+                                        
+                                                                                    <a href="/users/suggested-corrections.php" class="menu-item">
+                                                <i class="menu-item__icon zlibicon-suggest"></i>
+                                                <span class="menu-item__text"> 已建议的修改</span>
+                                            </a>
+                                        
+                                        
+                                    </div>
+                                </div>
+                                <div class="menu-cats__item">
+                                    <div class="menu-cats__item-title js-cat-toggler" data-cat="projects">Project<i class="menu-item__arr zlibicon-slider-arr-right"></i></div>
+                                    <div class="menu-cats__links">
+                                        <a href="/blog/" class="menu-item">
+                                            <i class="menu-item__icon zlibicon-blog"></i>
+                                            <span class="menu-item__text"> 博客<span style="position:relative; margin: 0 2px 8px 0;height: 6px;width: 6px; background-color: #8ECD51;border-radius: 50%;display: inline-block;"></span></span>
+                                        </a>
+                                        <a href="/top-zlibrarians.php" class="menu-item">
+                                            <i class="menu-item__icon zlibicon-top"></i>
+                                            <span class="menu-item__text"> Z-Librarians 排行榜</span>
+                                        </a>
+                                        <a href="/faq.php" class="menu-item">
+                                            <i class="menu-item__icon zlibicon-faq"></i>
+                                            <span class="menu-item__text"> FAQ</span>
+                                        </a>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                                                        <!--  -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+<style type="text/css">
+    .main-menu-item img {
+        opacity: 0.7;
+    }
+    .main-menu-item img:hover {
+        opacity: 1;
+    }
+
+    </style>
+
+    <script>
+        $(window).on("load", function () {
+            if ($(window).width() > 767) {
+                $('#profileMenu .upd-burger').tooltip({
+                    html: true,
+                    container: 'body',
+                    placement: 'left',
+                    title: '<div id="userDStatsSpinner">下载...</div>',
+                }).on('inserted.bs.tooltip', function() {
+                    // already loaded, do nothing
+                    if (!$('#userDStatsSpinner').length) {
+                        return
+                    }
+
+                    return new ZLibraryResponse('/papi/user/dstats')
+                        .spinner(new ZLibrarySpinner('userDStatsSpinner', 'button').color('#ffffff'))
+                        .disableNotify()
+                        .fetch()
+                        .then(data => {
+                            $('#profileMenu .upd-burger').attr('title',
+                                    '下载: ' + data.dailyDownloads + '/' + data.dailyDownloadsLimit
+                                    + '<br/>即将刷新 ' + data.resetTime)
+                                .tooltip('fixTitle')
+                                .tooltip('show')
+                        });
+                });
+            }
+        });
+
+        $('#btnMenuLogout').click(function(event) {
+            CurrentUser.clearDownloadedBooks()
+        });
+    </script>
+
+
+<script>
+    $(document).ready(function() {
+                    const booksDomains = [];
+            const articlesDomains = [];
+            const Checker = DomainsChecker
+        
+        let stageSubdomain = '';
+        let subdomainPrefix = '';
+        const singleloginDomains = [];
+        const redirectorDomains = [];
+
+        const domainCheckSuccess = (domain, mode) => {
+            if (subdomainPrefix.length && domain[2] === '.') { // priority for subdomainPrefix
+                domain = domain.substr(3)
+            }
+
+            
+            $('.populate-preferred-domain[data-mode="' + mode + '"]').each(function() {
+                const uriPath = $(this).attr('href').replace(/^.*\/\/[^\/|\?]+/, '')
+                $(this).attr('href', '//' + stageSubdomain + subdomainPrefix + domain + uriPath).trigger('foundDomain', {domain: domain})
+            })
+        }
+
+        const domainCheckError = (domain, mode) => {}
+
+        Checker(booksDomains, domainCheckSuccess, domainCheckError, 'books')
+        Checker(articlesDomains, domainCheckSuccess, domainCheckError, 'articles')
+        DomainsChecker(singleloginDomains, domainCheckSuccess, domainCheckError, 'singlelogin')
+        DomainsChecker(redirectorDomains, domainCheckSuccess, domainCheckError, 'redirector')
+    })
+</script>
+
+<script>
+    $("#bs-example-navbar-collapse-1").on('shown.bs.collapse', function(e){
+        $('#main-menu-dropdown').dropdown('toggle');
+        $('#main-menu-dropdown').attr('data-toggle', ''); // make it static
+
+        $('#admin-menu-dropdown').dropdown('toggle');
+        $('#admin-menu-dropdown').attr('data-toggle', ''); // make it static
+
+        $("#quickSearchMenuDD2").dropdown('toggle');
+        $('#quickSearchMenuDD2').attr('data-toggle', ''); // make it static
+
+        $("#profileMenu").dropdown('toggle');
+        $('#profileMenu').attr('data-toggle', ''); // make it static
+    });
+
+    $("#bs-example-navbar-collapse-1").on('hide.bs.dropdown', function(e){
+        if ($(window).width() > 767) return
+
+        $('#loginDDLink, #stagesLink, #admin-menu-dropdown').next('ul').hide();
+    })
+
+    $('document').ready(() => clearSearchButtonEvents('#quickSearchInput', '#quickSearchReset'));                       // быстрый поиск из шапки
+
+    $('.js-burger-toggler').on('click', function(e) {
+        if ($(window).width() < 991) {
+            $(window).scrollTop(0)
+
+            if ($(window).width() < 768) {
+                $('.adminLink').toggle();
+                $('.tabsTopMenu').toggle();
+            }
+
+            if ($('.upd-burger').hasClass('_active')) {
+                $('body').css('overflow','visible');
+            } else {
+                $('body').css('overflow','hidden')
+            }
+        }
+
+        $('.upd-burger').toggleClass('_active');
+    })
+
+    $('.js-compact-toggle').on('click', function() {
+        $(this).toggleClass('_active');
+        $('.user-data').toggleClass('_compact');
+
+        if (localStorage.getItem('isMenuCompact')) {
+            localStorage.removeItem('isMenuCompact')
+            $('[data-menu-toggle="tooltip"]').tooltip('disable')
+        } else {
+            localStorage.setItem('isMenuCompact', 'true')
+            if ($(window).width() > 991) $('[data-menu-toggle="tooltip"]').tooltip('enable')
+        }
+    })
+
+    $('.js-cat-toggler').on('click', function() {
+        if ($(window).width() < 993) {
+            const clickedCat = $(this).attr('data-cat')
+            const selectedCatList = JSON.parse(localStorage.getItem('selectedCatList')) || []
+
+            $(this).toggleClass('_active');
+            $(this).next('.menu-cats__links').slideToggle();
+
+            if (selectedCatList.indexOf(clickedCat) > -1) {
+                const index = selectedCatList.indexOf(clickedCat);
+                selectedCatList.splice(index, 1);
+                localStorage.setItem('selectedCatList', JSON.stringify(selectedCatList))
+            } else {
+                selectedCatList.push(clickedCat)
+                localStorage.setItem('selectedCatList', JSON.stringify(selectedCatList))
+            }
+        }
+    })
+
+    $('document').ready(function() {
+        var selectedCatList = JSON.parse(localStorage.getItem('selectedCatList'));
+        var isMenuCompact = localStorage.getItem('isMenuCompact')
+        if (selectedCatList) {
+            $('.menu-cats__links').removeAttr('style');
+            $('.menu-cats__item-title').removeClass('_active');
+            for (cat of selectedCatList) {
+                $('[data-cat = '+cat+']').addClass('_active');
+                $('[data-cat = '+cat+']').next().css('display', 'block');
+            }
+        } else {
+            localStorage.setItem('selectedCatList', JSON.stringify(['personal']))
+        }
+        if (isMenuCompact) {
+            $('.user-data').addClass('_compact');
+        }
+
+        $('.resendConfEmail').click(function () {
+            const $button = $(this)
+
+            if ($button.data('disabled')) {
+                new ZLibraryNotify().success('Confirmation email has been sent')
+                return false
+            } else {
+                $button.data('disabled', 1)
+            }
+
+            new ZLibraryResponse('/eapi/user/email/confirmation/resend', {})
+                .spinner(new ZLibrarySpinner($button).color('#000').width(0.5).radius(3).lines(8).left('15px'))
+                .success(function () {
+                    new ZLibraryNotify().success('Confirmation email has been sent')
+                    setTimeout(function () {
+                        $button.data('disabled', 0)
+                    }, 10000)
+                })
+                .error(function (response) {
+                    new ZLibraryNotify().error(response.error)
+                    setTimeout(function () {
+                        $button.data('disabled', 0)
+                    }, 10000)
+                }).fetch()
+
+            return false
+        })
+    })
+
+    $('.js-copy-link').on('click', function() {
+        const link = $(this).prev().data('link')
+        navigator.clipboard.writeText(link)
+        new ZLibraryNotify().info('地址被复制到剪贴板上')
+    })
+
+    $('.navbar-upd__search-btn').on('click', function () {
+        $(this).toggleClass('_active')
+        setTimeout(() => {
+            $('.search-upd__input').focus()
+        }, 300);
+
+    })
+
+    $('#navbar-upd-search').prop('checked', false)
+    $('#navbar-upd-menu').prop('checked', false)
+
+    $(window).on('resize', function () {
+        if ($(window).width() > 991) {
+            $('.menu-cats__links').css('display', 'block')
+        } else {
+            $('[data-menu-toggle="tooltip"]').tooltip('disable')
+        }
+        if ($(window).width() < 768) {
+            if (!$('.upd-burger').hasClass('_active')) {
+                $('.adminLink').hide();
+                $('.tabsTopMenu').hide();
+            }
+        } else {
+            $('.adminLink').show();
+            $('.tabsTopMenu').show();
+        }
+
+        if ($('.upd-burger').hasClass('_active')) {
+            $('body').css('overflow','hidden');
+        }
+    })
+
+    $(window).click(function() {
+        $('#navbar-upd-search').attr('checked', false);
+        $('#navbar-upd-menu').attr('checked', false);
+        $('.navbar-upd__search-btn').removeClass('_active')
+        $('.upd-burger').removeClass('_active')
+        if ($(window).width() < 768) {
+            $('.adminLink').hide();
+            $('.tabsTopMenu').hide();
+        }
+    });
+
+    $('.navbar-upd__search, .navbar-upd__menu').click(function(event){
+        event.stopPropagation();
+    });
+
+    if (localStorage.getItem('isMenuCompact') && ($(window).width() > 991)) {
+        $('[data-menu-toggle="tooltip"]').tooltip()
+    } else {
+        $('[data-menu-toggle="tooltip"]').tooltip('disable')
+    }
+
+</script>                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="g-page-content">
+                        <div class="container" style="max-width: 1000px;padding-bottom: 40px;">
+                            <div class="row">
+                                <div class="col-md-12 itemFullText">
+                                    
+<div class="page-title">
+    <span class="page-title-wrap">
+                    <a href="/booklists" class="page-title-back-arrow"></a>
+                <h1 class="page-title__name">计算机系列丛书</h1>
+    </span>
+    
+<ul class="page-title-breadcrumbs">
+    <li><a href="/" class="color-blue link-underline-none" title="电子书库booksc.eu">Main</a></li><li class="breadcrumbs-delimiter">/</li><li><a href="/booklists" class="color-blue link-underline-none">公开专栏</a></li><li class="breadcrumbs-delimiter">/</li><li><span class='last-breadcrumb' title='计算机系列丛书'>计算机系列丛书</span></li></ul>
+    <script>
+        // if we have some history - use previos page in history
+        if (history.length > 1) {
+            $(".page-title-back-arrow").prop('href', "javascript:history.back()")
+        }
+    </script>
+</div>
+
+<div class="z-content readlist-view _no-border-radius" data-no-spelling="true" style="position: relative;" >
+    <div id="readlist-description" class="readlist-description readlist-form-closed"></div>
+
+
+    <div class="readlist-info">
+        <div class="info-item author text-overflow">
+                        <div class="info-item__content" data-tooltip="booklist-creator">
+                <img src="/img/readlist/ico-user.svg" />
+                <span><a href="/booklists/user/9005801">Mastery</a></span>
+            </div>
+        </div>
+        <div class="info-item date">
+            <div class="info-item__content" data-tooltip="creation-date" title="创建日期">
+                <img src="/img/readlist/ico-calendar.svg" />
+                16 Nov 2021            </div>
+        </div>
+        <div class="break-mobile"></div>
+        <div class="info-item books-count">
+            <div class="info-item__content" data-tooltip="book-quantity" title="书籍数量">
+                <img src="/img/readlist/ico-book-closed.svg" />
+                284            </div>
+        </div>
+        <div class="info-item views-count">
+            <div class="info-item__content" data-tooltip="views-quantity" title="意见">
+                <img src="/img/readlist/ico-eye.svg" />
+                27k            </div>
+        </div>
+        <div class="info-item comments-count _custom">
+            <div class="info-item__content" data-tooltip="comments-quantity" title="Comments">
+                <a href="#booklists_comments" id="booklists_comments_count" class="js-anchor" style="display: flex;">
+                    <i class="zlibicon-comment"></i>
+                    <span>2</span>
+                </a>
+            </div>
+        </div>
+        <div class="info-item readlist-url _custom">
+            <div class="info-item__content">
+                                <i class="url-icon"><img src="/img/icon-link.svg"></i>
+                <a href="javascript://" class="btnCopyLink" title="复制">复制 URL</a>
+                <!-- <a href="javascript://" class="btnCopyLink copy-icon" title="复制"><img src="/img/icon-copy.svg"></a> -->
+                <input type="text" id="readlistLink" value="booklist.is/booklist/165858/538e6d" style="opacity: 0; position: fixed; right: 0; bottom: 0;">
+            </div>
+        </div>
+        <div id="readlist-private" class="info-item readlist-private hidden">
+            <div class="info-item__content">
+                <img src="/img/icon-private-blue.svg">
+                个人的            </div>
+        </div>
+                <div class="info-item favorite-readlist pull-right " style="margin: 8px 2px;"
+             data-tooltip="favorites-button" title="添加到收藏夹">
+            <img class="disabled" src="/img/icon-heart.svg" />
+            <img class="enabled" src="/img/icon-heart-blue.svg" />
+        </div>
+            </div>
+
+    
+    <div class="readlist-books" id="bookItemsContainer"></div>
+    
+            <div class="page-load-more">
+            <div id="show_more" class="more-btn">Show more <i class="zlibicon-angle-bracket-right"></i></div>
+        </div>
+     </div>
+
+<div id="booklists_comments"></div><script src="build/bundles/booklists_comments.be65d4be29095b1d44a8.js" charset="UTF-8"></script>
+<!-- Books search result on adding book to the readlist -->
+<script id="addbookTemplate" type="text/x-handlebars-template">
+    {{#if books}}
+        <div class="addbook-list">
+        {{#each books}}
+            <div data-id="{{id}}" class="addbook-item">
+                <div class="addbook-cover">
+                    <img src="{{cover}}">
+                </div>
+
+                <div class="addbook-info">
+                    <div class="addbook-title"><a href="{{href}}" target="_blank">{{title}}</a></div>
+                    <div class="addbook-author authors">
+                        {{author}}
+                    </div>
+
+                    <div class="row">
+                        <div class="col-sm-6 col-xs-12">
+                            <div class="addbook-stats">
+                                {{print keys="language,year" separator=", " pattern="<div>%self%</div>"}}
+                                {{print keys="extension,filesizeString" separator=", " pattern="<span class='book-property__extension'>%self%</span>"}}
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6 col-xs-12">
+                            <div class="btn-addbook-container pull-right">
+                                <button class="z-btn z-btn-white btn-addbook-book-add {{#if readlist_book_id}}hidden{{/if}}" data-book_id="{{id}}">添加</button>
+                                <button class="z-btn z-btn-primary btn-addbook-book-delete {{#if readlist_book_id}}{{else}}hidden{{/if}}" data-readlist_book_id="{{readlist_book_id}}" data-book_id="{{id}}">
+                                    <img src="/img/icon-circle-check.svg">
+                                    添加                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        {{/each}}
+        </div>
+    {{/if}}
+</script>
+
+<!-- List of all items in masonry grid -->
+<script id="bookItemsTemplate" type="text/x-handlebars-template">
+    
+    {{#each bookItems}}
+        {{> bookTemplate this}}
+    {{/each}}
+</script>
+
+<!-- book item template in masonry grid -->
+<script id="bookTemplate" type="text/x-handlebars-template">
+    <div id="book_{{id}}" data-id="{{id}}" data-book_id="{{book.id}}" class="item j-spellingBook">
+        <div class="cover-container checkBookDownloaded" data-book_id="{{book.id}}" data-isbn="{{book.isbn}}">
+           {{#if book.cover}}
+                <div class="z-book-cover"><img src="{{book.cover}}" class="cover btn-viewbook-open"></div>
+            {{else}}
+                <div class="z-book-none-cover medium btn-viewbook-open" {{{book.coverData}}}></div>
+            {{/if}}
+        </div>
+
+        <div class="item-info">
+            <div class="title">
+                <a href="{{book.href}}" target="_blank">{{book.title}}</a>
+                <img src="/img/icon-external-link.svg" class="external-link-icon">
+            </div>
+            <div class="author">{{book.author}}</div>
+            <div class="footer">
+                <div class="format"><span class="book-property__extension">{{book.extension}}</span>, {{book.filesizeString}}</div>
+                            </div>
+
+                            {{#if description}}
+                <div class="description">
+                    <span class="description-input {{#if description}}{{else}}hidden{{/if}}">{{description}}</span>
+                </div>
+                {{/if}}
+                    </div>
+    </div>
+</script>
+
+<!-- Popup with book info -->
+<div class="hidden" id="gratitudesForPopup">
+    <div id="gratitudes_form"></div><script src="build/bundles/gratitudes_form.301cb90ffc485e4ab6a0.js" charset="UTF-8"></script></div>
+
+<script id="viewbookTemplate" type="text/x-handlebars-template">
+    <div class="viewbook" data-readlist_books_id="{{id}}">
+        <div class="viewbook-container">
+            <div class="book-info-container">
+                <div class="row">
+                    <div class="col-sm-2 cover hidden-xs">
+                        <div class="cover-container checkBookDownloaded" data-book_id="{{book.id}}">
+                            {{#if book.cover}}
+                                <div class="z-book-cover"><img src="{{book.cover}}" /></div>
+                            {{else}}
+                                <div class="z-book-none-cover small" {{{book.coverData}}}></div>
+                            {{/if}}
+                        </div>
+                    </div>
+                    <div class="col-sm-10 col-xs-12">
+                        <a href="{{book.href}}" class="title color-blue" target="_blank">{{book.title}}</a>
+
+                        {{#if book.publisher}}
+                            <div class="publisher">{{book.publisher}}</div>
+                        {{/if}}
+
+                        <div class="author">{{{searchByAuthorLinks book.author}}}</div>
+                        <div class="book-rating-detail">
+                            <div class="book-rating">
+                                <span class="book-rating-interest-score {{#if (isZero book.interestScore)}}none{{/if}}">
+                                    {{book.interestScore}}
+                                </span> /
+                                <span class="book-rating-quality-score {{#if (isZero book.qualityScore)}}none{{/if}}">
+                                    {{book.qualityScore}}
+                                </span>
+                            </div>
+                            <div class="bookmarks" data-book_id="{{book.id}}">
+                                <i class="icon-heart btn-save-for-later" title="标记你最喜欢或计划以后下载的书籍"></i>
+                                <i class="icon-bookmark btn-booklists" title="将这本书加入你的个人主题收藏，并与你的社区分享它"></i>
+                                                                    <i class="icon-gratitude js-gratitude-icon" data-html="true" data-placement="bottom" title="<span>Say “Thank you!”<br /> to our contributors for the book</span>" style="width: 21px; height: 21px;">
+                                        <div id="gratitudes_form_wrapper"></div>
+                                    </i>
+                                                            </div>
+                        </div>
+                        <div class="description">{{{cutText book.description 400}}}</div>
+
+                        <div class="row book-info">
+                            {{#if book.category}}
+                                <div class="col-xs-12 col-sm-6 param">
+                                    <div class="row">
+                                        <div class="col-xs-4 key">类别：</div>
+                                        <div class="col-xs-8 value">{{category}}</div>
+                                    </div>
+                                </div>
+                            {{/if}}
+
+                            {{#if book.edition}}
+                                <div class="col-xs-12 col-sm-6 param">
+                                    <div class="row">
+                                        <div class="col-xs-4 key">版本：</div>
+                                        <div class="col-xs-8 value">{{book.edition}}</div>
+                                    </div>
+                                </div>
+                            {{/if}}
+
+                            {{#if book.year}}
+                                <div class="col-xs-12 col-sm-6 param">
+                                    <div class="row">
+                                        <div class="col-xs-4 key">年:</div>
+                                        <div class="col-xs-8 value">{{book.year}}</div>
+                                    </div>
+                                </div>
+                            {{/if}}
+
+                            {{#if book.language}}
+                                <div class="col-xs-12 col-sm-6 param">
+                                    <div class="row">
+                                        <div class="col-xs-4 key">语言:</div>
+                                        <div class="col-xs-8 value">{{book.language}}</div>
+                                    </div>
+                                </div>
+                            {{/if}}
+
+                            {{#if book.pages}}
+                                <div class="col-xs-12 col-sm-6 param">
+                                    <div class="row">
+                                        <div class="col-xs-4 key">页数:</div>
+                                        <div class="col-xs-8 value">{{book.pages}}</div>
+                                    </div>
+                                </div>
+                            {{/if}}
+
+                            {{#if book.series}}
+                                <div class="col-xs-12 col-sm-6 param">
+                                    <div class="row">
+                                        <div class="col-xs-4 key">系列:</div>
+                                        <div class="col-xs-8 value">{{book.series}}</div>
+                                    </div>
+                                </div>
+                            {{/if}}
+
+                            <div class="col-xs-12 col-sm-6 param">
+                                <div class="row">
+                                    <div class="col-xs-4 key">文件:</div>
+                                    <div class="col-xs-8 value"><span class="book-property__extension">{{book.extension}}</span>, {{book.filesizeString}}</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal-footer">
+            <button class="btn-viewbook-close hidden-xs">关闭</button>
+            {{#if book.dl}}
+                <button data-download_location="{{book.dl}}" class="btn-primary" id="modalDownloadBook">
+                    <img src="/img/icon-download-white.svg">
+                    下载                </button>
+            {{else}}
+                <button disabled>无法下载</button>
+            {{/if}}
+            <button onclick="window.open('{{book.href}}')" class="btn-primary">进入书籍</button>
+            <button class="btn-viewbook-close visible-xs" style="float: right;">关闭</button>
+        </div>
+    </div>
+</script>
+
+<div id="addbookForm" class="hidden">
+    <div class="input-addbook-title-container">
+        <input type="text" placeholder="按名称、作者、ISBN、出版社、MD5...搜索。" class="input-addbook-title" oninput="inputAddBookForm(this);">
+        <!--<button type="reset" class="button-search-reset" id="addbookSearchReset" onclick="addbookSearchReset();">&times;</button>-->
+        <button class="btn-addbook-search">搜索</button>
+    </div>
+
+    <div id="addbookMessage" class="addbook-message" style="text-align: center; margin: 36px 0;">
+        使用该方式搜索您想添加到您的收藏的书籍    </div>
+    <div id="addbookMessageNotFound" class="addbook-message-not-found hidden notFound color3" style="text-align: center; margin: 36px 0;">按照您的查询，没有找到任何信息</div>
+    <div id="addbookItemsContainer" class="addbook-list-container"></div>
+</div>
+
+
+<div id="readlistForm" class="hidden">
+    <form class="readlistForm form-horizontal" action="/papi/booklist/165858/edit" method="post" role="form">
+        <div class="modal-body">
+            <div style="margin:0 0 40px 0;">
+<figure class="quote">
+    <blockquote class="quote__body">
+        <p>To build up a library is to create a life. It’s never just a random collection of books</p>
+    </blockquote>
+    <figcaption class="quote__credits">— <cite>Carlos María Domínguez</cite></figcaption>
+</figure>
+        </div>
+            <div class="form-group">
+                <label class="control-label col-sm-3">
+                    名称                </label>
+                <div class="col-sm-9">
+                    <input class="form-control" name="title" type="text" value="计算机系列丛书" maxlength="120">
+                </div>
+            </div>
+
+            <div class="form-group" style="margin-bottom: 0;">
+                <label class="control-label col-sm-3">
+                    描述                </label>
+                <div class="col-sm-9">
+                    <textarea class="form-control" name="description" style="min-height: 100px;" maxlength="1000"></textarea>
+                    <span data-length="1000"></span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label col-sm-3">&nbsp;</label>
+                <div class="col-sm-9">
+                    <label style="font-weight: normal; font-size: 14px;">
+                        <input type="checkbox" name="private" style="margin: -3px 6px 0 0; vertical-align: middle;"> 个人专栏                        <img src="/img/icon-question.svg" class="tooltip-init" data-placement="bottom" title="只有你自己可以看见此专栏" style="margin-top: -2px; width: 12px;">
+                    </label>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal-footer">
+            <button class="btn btnCloseReadlistForm">关闭</button>
+            <button class="btn btn-primary" type="submit">保存</button>
+        </div>
+    </form>
+</div>
+
+<script>
+    $(function () {
+        const $readlistFormModal = $('#zlibrary-modal-styled');
+        $(document).on('click', '.btnCloseReadlistForm', function(event) {
+            event.preventDefault()
+            new ZLibraryModal({
+                element: 'readlistForm',
+                container: 'zlibrary-modal-styled'
+            }).hide()
+        })
+
+        $readlistFormModal
+            .on('input', 'textarea[name="description"]', function () {
+                const $this = $(this);
+                const value = $this.val();
+
+                $this.next().text(value.length);
+            });
+    });
+</script>
+
+<style>
+    textarea[name="description"] {
+        resize: vertical;
+    }
+
+    textarea[name="description"] + span {
+        display: block;
+        font-size: 12px;
+        color: #999;
+        text-align: right;
+        user-select: none;
+        pointer-events: none;
+    }
+
+    textarea[name="description"] + span::after {
+        content: ' / ' attr(data-length);
+    }
+
+    .form-group .tooltip-inner {
+        max-width: auto !important;
+        width: auto !important;
+    }
+</style>
+
+<script>
+$(document).ready(function() {
+    const bookTemplate = Handlebars.compile(document.getElementById('bookTemplate').innerHTML)
+    const bookItemsTemplate = Handlebars.compile(document.getElementById('bookItemsTemplate').innerHTML)
+    const viewbookTemplate = Handlebars.compile(document.getElementById('viewbookTemplate').innerHTML)
+    const addbookTemplate = Handlebars.compile(document.getElementById('addbookTemplate').innerHTML)
+    Handlebars.registerPartial('bookTemplate', bookTemplate)
+    Handlebars.registerHelper('searchByAuthorLinks', function(authorsString) {
+        let authors = []
+        $.each(authorsString.split(/\s*[,;]\s*/), function(i, author) {
+            authors.push('<a href="/g/' + rawurlencode(escapeHtml(author)) + '" target="_blank">' + escapeHtml(author) + '</a>')
+        })
+        return new Handlebars.SafeString(authors.join(', '))
+    })
+    Handlebars.registerHelper('isZero', function(val) {
+        return val == 0
+    })
+    Handlebars.registerHelper('print', function(options) {
+        let {keys, separator, context, pattern} = options.hash
+        if (typeof context === 'undefined') context = this
+        if (typeof pattern === 'undefined') pattern = '%self%'
+        keys = keys.split(',')
+
+        const fields = Object.entries(context).filter(([key, value]) => {
+            if (!keys.includes(key)) return false
+            if (!Number.isNaN(+value)) return +value !== 0
+
+            return true
+        }).map(([_, value]) => value)
+
+        let text = fields.join(separator)
+        if (text !== '') text = pattern.replace('%self%', text)
+
+
+        return new Handlebars.SafeString(text)
+    })
+
+    function escapeHtml(text) {
+        const map = {
+            '&': '&amp;',
+            '<': '&lt;',
+            '>': '&gt;',
+            '"': '&quot;',
+            "'": '&#039;'
+        };
+
+      return text.replace(/[&<>"']/g, function(m) { return map[m]; });
+    }
+
+    const CurrentReadlist = {"id":165858,"user_id":9005801,"title":"\u8ba1\u7b97\u673a\u7cfb\u5217\u4e1b\u4e66","description":"","languages":"en,zh","public":1,"adult":0,"editors_choice":1,"views_count":26571,"books_count":284,"favorites_count":4226,"date_updated":{"date":"2021-11-16 07:43:48.000000","timezone_type":3,"timezone":"Europe\/Moscow"},"date":{"date":"2021-11-16 07:43:48.000000","timezone_type":3,"timezone":"Europe\/Moscow"},"hash":"538e6d"};
+    const bookItems = new ZLibraryModelList([{"id":10992986,"readlist_id":165858,"book_id":5663427,"description":null,"deleted":0,"date":{"date":"2021-11-16 07:44:22.000000","timezone_type":3,"timezone":"Europe\/Moscow"},"book":{"id":5663427,"title":"\u7f16\u8bd1\u539f\u7406: \u539f\u7406\u3001\u6280\u672f\u4e0e\u5de5\u5177","author":"Alfred V. Aho; Monica S.Lam; Ravi Sethi; Jeffrey D. Ullman","volume":"","year":2009,"edition":"","publisher":"\u673a\u68b0\u5de5\u4e1a\u51fa\u7248\u793e","identifier":"9787111251217,7111251210","language":"chinese","extension":"pdf","pages":631,"filesize":32944449,"series":"\u8ba1\u7b97\u673a\u79d1\u5b66\u4e1b\u4e66","cover":"https:\/\/lib-pyvfleov2hccwdvgm2zstlsm.booksc.eu\/covers299\/books\/38\/f1\/9b\/38f19ba20ae497cb578839b2f6d20ce1.jpg","terms_hash":"","active":1,"filesizeString":"31.42 MB","href":"\/book\/5663427\/0661a6","hash":"0661a6","description":"\u4e66\u7b7e\u5df2\u88c5\u8f7d\uff0c<br>\u4e66\u7b7e\u5236\u4f5c\u65b9\u6cd5\u8bf7\u627e yjyouaremysunshine@163.com<br>\u5b8c\u5168\u514d\u8d39<br>\u672c\u4e66\u5168\u9762\u3001\u6df1\u5165\u5730\u63a2\u8ba8\u4e86\u7f16\u8bd1\u5668\u8bbe\u8ba1\u65b9\u9762\u7684\u91cd\u8981\u4e3b\u9898\uff0c\u5305\u62ec\u8bcd\u6cd5\u5206\u6790\u3001\u8bed\u6cd5\u5206\u6790\u3001\u8bed\u6cd5\u5236\u5bfc\u5b9a\u4e49\u548c\u8bed\u6cd5\u5236\u5bfc\u7ffb\u8bd1\u3001\u8fd0\u884c\u65f6\u523b\u73af\u5883\u3001\u76ee\u6807\u4ee3\u7801\u751f\u6210\u3001\u4ee3\u7801\u4f18\u5316\u6280\u672f\u3001\u5e76\u884c\u6027\u68c0\u6d4b\u4ee5\u53ca\u8fc7\u7a0b\u95f4\u5206\u6790\u6280\u672f\uff0c\u5e76\u5728\u76f8\u5173\u7ae0\u8282\u4e2d\u7ed9\u51fa\u5927\u91cf\u7684\u5b9e\u4f8b\u3002\u4e0e\u4e0a\u4e00\u7248\u76f8\u6bd4\uff0c\u672c\u4e66\u8fdb\u884c\u4e86\u5168\u9762\u7684\u4fee\u8ba2\uff0c\u6db5\u76d6\u4e86\u7f16\u8bd1\u5668\u5f00\u53d1\u65b9\u9762\u7684\u6700\u65b0\u8fdb\u5c55\u3002\u6bcf\u7ae0\u4e2d\u90fd\u63d0\u4f9b\u4e86\u5927\u91cf\u7684\u7cfb\u7edf\u53ca\u53c2\u8003\u6587\u732e\u3002<br>\u672c\u4e66\u662f\u7f16\u8bd1\u539f\u7406\u8bfe\u7a0b\u65b9\u9762\u7684\u7ecf\u5178\u6559\u6750\uff0c\u5185\u5bb9\u4e30\u5bcc\uff0c\u9002\u5408\u4f5c\u4e3a\u9ad8\u7b49\u9662\u6821\u8ba1\u7b97\u673a\u53ca\u76f8\u5173\u4e13\u4e1a\u672c\u79d1\u751f\u53ca\u7814\u7a76\u751f\u7684\u7f16\u8bd1\u539f\u7406\u8bfe\u7a0b\u7684\u6559\u6750\uff0c\u4e5f\u662f\u5e7f\u5927\u6280\u672f\u4eba\u5458\u7684\u6781\u4f73\u53c2\u8003\u8bfb\u7269\u3002","kindleAvailable":false,"sendToEmailAvailable":false,"interestScore":"0","qualityScore":"0","dl":"\/dl\/5663427\/acaab8","_isUserSavedBook":false}},{"id":10992997,"readlist_id":165858,"book_id":5668314,"description":null,"deleted":0,"date":{"date":"2021-11-16 07:45:04.000000","timezone_type":3,"timezone":"Europe\/Moscow"},"book":{"id":5668314,"title":"\u7b97\u6cd5\u5bfc\u8bba\uff08\u539f\u4e66\u7b2c3\u7248\uff09","author":"Thomas H.Cormen; Charles E.Leiserson; Ronald L.Rivest; Clifford Stein","volume":"","year":2012,"edition":"","publisher":"\u673a\u68b0\u5de5\u4e1a\u51fa\u7248\u793e","identifier":"9787111407010,7111407016","language":"chinese","extension":"pdf","pages":780,"filesize":745346004,"series":"\u8ba1\u7b97\u673a\u79d1\u5b66\u4e1b\u4e66","cover":"https:\/\/lib-pyvfleov2hccwdvgm2zstlsm.booksc.eu\/covers299\/books\/82\/e0\/be\/82e0bef57b1d1459ba053eebb4d0cb71.jpg","terms_hash":"","active":1,"filesizeString":"710.82 MB","href":"\/book\/5668314\/a4864c","hash":"a4864c","description":"\u4e66\u7b7e\u5df2\u88c5\u8f7d\uff0c<br>\u4e66\u7b7e\u5236\u4f5c\u65b9\u6cd5\u8bf7\u627e yjyouaremysunshine@163.com<br>\u5b8c\u5168\u514d\u8d39<br>\u5728\u6709\u5173\u7b97\u6cd5\u7684\u4e66\u4e2d\uff0c\u6709\u4e00\u4e9b\u53d9\u8ff0\u975e\u5e38\u4e25\u8c28\uff0c\u4f46\u4e0d\u591f\u5168\u9762\uff1b\u53e6\u4e00\u4e9b\u6d89\u53ca\u4e86\u5927\u91cf\u7684\u9898\u6750\uff0c\u4f46\u53c8\u7f3a\u4e4f\u4e25\u8c28\u6027\u3002\u672c\u4e66\u5c06\u4e25\u8c28\u6027\u548c\u5168\u9762\u6027\u878d\u4e3a\u4e00\u4f53\uff0c\u6df1\u5165\u8ba8\u8bba\u5404\u7c7b\u7b97\u6cd5\uff0c\u5e76\u7740\u529b\u4f7f\u8fd9\u4e9b\u7b97\u6cd5\u7684\u8bbe\u8ba1\u548c\u5206\u6790\u80fd\u4e3a\u5404\u4e2a\u5c42\u6b21\u7684\u8bfb\u8005\u63a5\u53d7\u3002\u5168\u4e66\u5404\u7ae0\u81ea\u6210\u4f53\u7cfb\uff0c\u53ef\u4ee5\u4f5c\u4e3a\u72ec\u7acb\u7684\u5b66\u4e60\u5355\u5143\uff1b\u7b97\u6cd5\u4ee5\u82f1\u8bed\u548c\u4f2a\u4ee3\u7801\u7684\u5f62\u5f0f\u63cf\u8ff0\uff0c\u5177\u5907\u521d\u6b65\u7a0b\u5e8f\u8bbe\u8ba1\u7ecf\u9a8c\u7684\u4eba\u5c31\u80fd\u770b\u61c2\uff1b\u8bf4\u660e\u548c\u89e3\u91ca\u529b\u6c42\u6d45\u663e\u6613\u61c2\uff0c\u4e0d\u5931\u6df1\u5ea6\u548c\u6570\u5b66\u4e25\u8c28\u6027\u3002<br>\u5168\u4e66\u9009\u6750\u7ecf\u5178\u3001\u5185\u5bb9\u4e30\u5bcc\u3001\u7ed3\u6784\u5408\u7406\u3001\u903b\u8f91\u6e05\u6670\uff0c\u5bf9\u672c\u79d1\u751f\u7684\u6570\u636e\u7ed3\u6784\u8bfe\u7a0b\u548c\u7814\u7a76\u751f\u7684\u7b97\u6cd5\u8bfe\u7a0b\u90fd\u662f\u975e\u5e38\u5b9e\u7528\u7684\u6559\u6750\uff0c\u5728IT\u4e13\u4e1a\u4eba\u5458\u7684\u804c\u4e1a\u751f\u6daf\u4e2d\uff0c\u672c\u4e66\u4e5f\u662f\u4e00\u672c\u6848\u5934\u5fc5\u5907\u7684\u53c2\u8003\u4e66\u6216\u5de5\u7a0b\u5b9e\u8df5\u624b\u518c\u3002<br>\u7b2c3\u7248\u7684\u4e3b\u8981\u53d8\u5316\uff1a<br>\u65b0\u589e\u4e86van Emde Boas\u6811\u548c\u591a\u7ebf\u7a0b\u7b97\u6cd5\uff0c\u5e76\u4e14\u5c06\u77e9\u9635\u57fa\u7840\u79fb\u81f3\u9644\u5f55\u3002<br>\u4fee\u8ba2\u4e86\u9012\u5f52\u5f0f\uff08\u73b0\u5728\u79f0\u4e3a\u201c\u5206\u6cbb\u7b56\u7565\u201d\uff09\u90a3\u4e00\u7ae0\u7684\u5185\u5bb9\uff0c\u66f4\u5e7f\u6cdb\u5730\u8986\u76d6\u5206\u6cbb\u6cd5\u3002<br>\u79fb\u9664\u4e24\u7ae0\u5f88\u5c11\u8bb2\u6388\u7684\u5185\u5bb9\uff1a\u4e8c\u9879\u5806\u548c\u6392\u5e8f\u7f51\u7edc\u3002<br>\u4fee\u8ba2\u4e86\u52a8\u6001\u89c4\u5212\u548c\u8d2a\u5fc3\u7b97\u6cd5\u76f8\u5173\u5185\u5bb9\u3002<br>\u6d41\u7f51\u7edc\u76f8\u5173\u6750\u6599\u73b0\u5728\u57fa\u4e8e\u8fb9\u4e0a\u7684\u5168\u90e8\u6d41\u3002<br>\u7531\u4e8e\u5173\u4e8e\u77e9\u9635\u57fa\u7840\u548cStrassen\u7b97\u6cd5\u7684\u6750\u6599\u79fb\u5230\u4e86\u5176\u4ed6\u7ae0\uff0c\u77e9\u9635\u8fd0\u7b97\u8fd9\u4e00\u7ae0\u7684\u5185\u5bb9\u6240\u5360\u7bc7\u5e45\u66f4\u5c0f\u3002<br>\u4fee\u6539\u4e86\u5bf9Knuth-Morris-Pratt\u5b57\u7b26\u4e32\u5339\u914d\u7b97\u6cd5\u7684\u8ba8\u8bba\u3002<br>\u65b0\u589e100\u9053\u7ec3\u4e60\u548c28\u9053\u601d\u8003\u9898\uff0c\u8fd8\u66f4\u65b0\u5e76\u8865\u5145\u4e86\u53c2\u8003\u6587\u732e\u3002","kindleAvailable":false,"sendToEmailAvailable":false,"interestScore":"5.0","qualityScore":"3.5","dl":"\/dl\/5668314\/43440b","_isUserSavedBook":false}},{"id":10993000,"readlist_id":165858,"book_id":5668399,"description":null,"deleted":0,"date":{"date":"2021-11-16 07:45:11.000000","timezone_type":3,"timezone":"Europe\/Moscow"},"book":{"id":5668399,"title":"\u8ba1\u7b97\u673a\u79d1\u5b66\u4e1b\u4e66\uff1a\u7f16\u8bd1\u539f\u7406\uff08\u7b2c2\u7248\uff09","author":"[\u7f8e]Alfred V.Aho\uff0c[\u7f8e]Monica S.Lam\uff0c[\u7f8e]Ravi Sethi\uff0c\u7b49 \u8d75\u5efa\u534e\uff0c\u90d1\u6ed4\uff0c\u7b49","volume":"","year":2009,"edition":"2","publisher":"\u673a\u68b0\u5de5\u4e1a\u51fa\u7248\u793e","identifier":"9787111251217,7111251210","language":"chinese","extension":"pdf","pages":631,"filesize":594581023,"series":"\u6e05\u534e\u5927\u5b66\u8ba1\u7b97\u673a\u7cfb\u5217\u6559\u6750","cover":"https:\/\/lib-pyvfleov2hccwdvgm2zstlsm.booksc.eu\/covers299\/books\/e7\/8b\/67\/e78b67a55182af4ad0bb34004a13cadb.jpg","terms_hash":"","active":1,"filesizeString":"567.04 MB","href":"\/book\/5668399\/1c0fd2","hash":"1c0fd2","description":"<p>\u672c\u4e66\u5168\u9762\u3001\u6df1\u5165\u5730\u63a2\u8ba8\u4e86\u7f16\u8bd1\u5668\u8bbe\u8ba1\u65b9\u9762\u7684\u91cd\u8981\u4e3b\u9898\uff0c\u5305\u62ec\u8bcd\u6cd5\u5206\u6790\u3001\u8bed\u6cd5\u5206\u6790\u3001\u8bed\u6cd5\u5236\u5bfc\u5b9a\u4e49\u548c\u8bed\u6cd5\u5236\u5bfc\u7ffb\u8bd1\u3001\u8fd0\u884c\u65f6\u523b\u73af\u5883\u3001\u76ee\u6807\u4ee3\u7801\u751f\u6210\u3001\u4ee3\u7801\u4f18\u5316\u6280\u672f\u3001\u5e76\u884c\u6027\u68c0\u6d4b\u4ee5\u53ca\u8fc7\u7a0b\u95f4\u5206\u6790\u6280\u672f\uff0c\u5e76\u5728\u76f8\u5173\u7ae0\u8282\u4e2d\u7ed9\u51fa\u5927\u91cf\u7684\u5b9e\u4f8b\u3002\u4e0e\u4e0a\u4e00\u7248\u76f8\u6bd4\uff0c\u672c\u4e66\u8fdb\u884c\u4e86\u5168\u9762\u7684\u4fee\u8ba2\uff0c\u6db5\u76d6\u4e86\u7f16\u8bd1\u5668\u5f00\u53d1\u65b9\u9762\u7684\u6700\u65b0\u8fdb\u5c55\u3002\u6bcf\u7ae0\u4e2d\u90fd\u63d0\u4f9b\u4e86\u5927\u91cf\u7684\u7cfb\u7edf\u53ca\u53c2\u8003\u6587\u732e\u3002<p>\u672c\u4e66\u662f\u7f16\u8bd1\u539f\u7406\u8bfe\u7a0b\u65b9\u9762\u7684\u7ecf\u5178\u6559\u6750\uff0c\u5185\u5bb9\u4e30\u5bcc\uff0c\u9002\u5408\u4f5c\u4e3a\u9ad8\u7b49\u9662\u6821\u8ba1\u7b97\u673a\u53ca\u76f8\u5173\u4e13\u4e1a\u672c\u79d1\u751f\u53ca\u7814\u7a76\u751f\u7684\u7f16\u8bd1\u539f\u7406\u8bfe\u7a0b\u7684\u6559\u6750\uff0c\u4e5f\u662f\u5e7f\u5927\u6280\u672f\u4eba\u5458\u7684\u6781\u4f73\u53c2\u8003\u8bfb\u7269\u3002<\/p>","kindleAvailable":false,"sendToEmailAvailable":false,"interestScore":"5.0","qualityScore":"5.0","dl":"\/dl\/5668399\/52c836","_isUserSavedBook":false}},{"id":10993003,"readlist_id":165858,"book_id":5642063,"description":null,"deleted":0,"date":{"date":"2021-11-16 07:45:19.000000","timezone_type":3,"timezone":"Europe\/Moscow"},"book":{"id":5642063,"title":"TCP\/IP\u8be6\u89e3 \u53771\uff1a\u534f\u8bae\uff08\u539f\u4e66\u7b2c2\u7248\uff09","author":"\u51ef\u6587 R. \u798f\u5c14 (Kevin R. Fall), W. \u7406\u67e5\u5fb7\u00b7\u53f2\u8482\u6587\u65af (W. Richard Stevens)","volume":"I","year":2016,"edition":"2nd","publisher":"\u673a\u68b0\u5de5\u4e1a\u51fa\u7248\u793e","identifier":"9787111453833,7111453832","language":"chinese","extension":"pdf","pages":683,"filesize":157336672,"series":"\u8ba1\u7b97\u673a\u79d1\u5b66\u4e1b\u4e66","cover":"https:\/\/lib-pyvfleov2hccwdvgm2zstlsm.booksc.eu\/covers299\/books\/84\/31\/9c\/84319c9161c8d3de37aac677d407fdb6.jpg","terms_hash":"","active":1,"filesizeString":"150.05 MB","href":"\/book\/5642063\/2873d0","hash":"2873d0","description":"<p>\u5df2\u6545\u4e13\u5bb6W. Richard Stevens\u7684\u300aTCP\/IP\u8be6\u89e3\u300b\u662f\u4e00\u90e8\u7ecf\u5178\u4e4b\u4f5c\uff01\u7b2c1\u7248\u81ea1994\u5e74\u51fa\u7248\u4ee5\u6765\u6df1\u53d7\u8bfb\u8005\u6b22\u8fce\uff0c\u4f46\u5176\u5185\u5bb9\u6709\u4e9b\u5df2\u7ecf\u9648\u65e7\uff0c\u800c\u4e14\u6ca1\u6709\u6d89\u53caIPv6\u3002\u73b0\u5728\uff0c\u8fd9\u90e8\u4e16\u754c\u9886\u5148\u7684TCP\/IP\u7545\u9500\u4e66\u5df2\u7531\u7f51\u7edc\u9876\u7ea7\u4e13\u5bb6Kevin R. Fall\u535a\u58eb\u5f7b\u5e95\u66f4\u65b0\uff0c\u53cd\u6620\u4e86\u65b0\u4e00\u4ee3\u57fa\u4e8eTCP\/IP\u7684\u7f51\u7edc\u6280\u672f\u3002\u672c\u4e66\u4e3b\u8981\u8bb2\u8ff0TCP\/IP\u534f\u8bae\uff0c\u5c55\u793a\u6bcf\u79cd\u534f\u8bae\u7684\u5b9e\u9645\u5de5\u4f5c\u539f\u7406\u7684\u540c\u65f6\u8fd8\u89e3\u91ca\u4e86\u5176\u6765\u9f99\u53bb\u8109\uff0c\u65b0\u589e\u4e86RPC\u3001\u8bbf\u95ee\u63a7\u5236\u3001\u8eab\u4efd\u8ba4\u8bc1\u3001\u9690\u79c1\u4fdd\u62a4\u3001NFS\u3001SMB\/CIFS\u3001DHCP\u3001NAT\u3001\u9632\u706b\u5899\u3001\u7535\u5b50\u90ae\u4ef6\u3001Web\u3001Web\u670d\u52a1\u3001\u65e0\u7ebf\u3001\u65e0\u7ebf\u5b89\u5168\u7b49\u5185\u5bb9\uff0c\u6bcf\u7ae0\u6700\u540e\u8fd8\u63cf\u8ff0\u4e86\u9488\u5bf9\u534f\u8bae\u7684\u653b\u51fb\u65b9\u6cd5\uff0c\u5e2e\u52a9\u8bfb\u8005\u8f7b\u677e\u638c\u63e1\u9886\u57df\u77e5\u8bc6\u3002<\/p><p>\u672c\u4e66\u5185\u5bb9\u4e30\u5bcc\u3001\u6982\u5ff5\u6e05\u6670\u3001\u8bba\u8ff0\u8be6\u5c3d\uff0c\u9002\u5408\u4efb\u4f55\u5e0c\u671b\u7406\u89e3TCP\/IP\u534f\u8bae\u5b9e\u73b0\u7684\u4eba\u9605\u8bfb\uff0c\u66f4\u662fTCP\/IP\u9886\u57df\u7814\u7a76\u4eba\u5458\u548c\u5f00\u53d1\u4eba\u5458\u7684\u6743\u5a01\u53c2\u8003\u4e66\u3002\u65e0\u8bba\u662f\u521d\u5b66\u8005\u8fd8\u662f\u529f\u5e95\u6df1\u539a\u7684\u7f51\u7edc\u9886\u57df\u9ad8\u624b\uff0c\u672c\u4e66\u90fd\u662f\u6848\u5934\u5fc5\u5907\u3002<\/p>","kindleAvailable":false,"sendToEmailAvailable":false,"interestScore":"5.0","qualityScore":"5.0","dl":"\/dl\/5642063\/5980db","_isUserSavedBook":false}},{"id":10993009,"readlist_id":165858,"book_id":3620438,"description":null,"deleted":0,"date":{"date":"2021-11-16 07:45:40.000000","timezone_type":3,"timezone":"Europe\/Moscow"},"book":{"id":3620438,"title":"\u73b0\u4ee3\u64cd\u4f5c\u7cfb\u7edf","author":"Andrew S. Tanenbaum, Herbert Bos","volume":"","year":2017,"edition":"4th","publisher":"\u673a\u68b0\u5de5\u4e1a\u51fa\u7248\u793e","identifier":"9787111573692,7111573692","language":"chinese","extension":"pdf","pages":610,"filesize":197184124,"series":"\u8ba1\u7b97\u673a\u79d1\u5b66\u4e1b\u4e66","cover":"https:\/\/lib-pyvfleov2hccwdvgm2zstlsm.booksc.eu\/covers299\/books\/0f\/5a\/b8\/0f5ab83aa816f03d0e72fcb1574768d5.jpg","terms_hash":"021abbb6ab50ebe78d4e024a8e0883c2","active":1,"filesizeString":"188.05 MB","href":"\/book\/3620438\/a087a7","hash":"a087a7","description":"Andrew S. Tanenbaum\u6559\u6388\u7f16\u5199\u7684\u6559\u6750\u300a\u73b0\u4ee3\u64cd\u4f5c\u7cfb\u7edf\u300b\u73b0\u5728\u5df2\u7ecf\u662f\u7b2c4\u7248\u4e86\u3002\u7b2c4\u7248\u5728\u4fdd\u6301\u539f\u6709\u7279\u8272\u7684\u57fa\u7840\u4e0a\uff0c\u53c8\u589e\u6dfb\u4e86\u8bb8\u591a\u65b0\u7684\u5185\u5bb9\uff0c\u53cd\u6620\u4e86\u5f53\u4ee3\u64cd\u4f5c\u7cfb\u7edf\u7684\u53d1\u5c55\u4e0e\u52a8\u5411\uff0c\u5e76\u4e0d\u65ad\u5730\u4e0e\u65f6\u4ff1\u8fdb\u3002<br>\u5bf9\u6bd4\u7b2c3\u7248\uff0c\u7b2c4\u7248\u6709\u5f88\u591a\u53d8\u5316\u3002\u4e00\u4e9b\u662f\u6559\u6750\u4e2d\u591a\u5904\u53ef\u89c1\u7684\u7ec6\u5fae\u53d8\u5316\uff0c\u4e00\u4e9b\u662f\u5c31\u67d0\u4e00\u529f\u80fd\u6216\u673a\u5236\u589e\u52a0\u4e86\u5bf9\u6700\u65b0\u6280\u672f\u7684\u4ecb\u7ecd\uff0c\u5982\u589e\u52a0\u4e86futex\u540c\u6b65\u539f\u8bed\u3001\u8bfb\u2013\u590d\u5236\u2013\u66f4\u65b0\uff08Read-Copy-Update\uff09\u673a\u5236\u4ee5\u53ca6\u7ea7RAID\u7684\u5185\u5bb9\u3002\u53e6\u5916\u4e00\u4e9b\u5219\u662f\u91cd\u5927\u53d8\u5316\uff0c\u4f8b\u5982\uff1a\u7528Windows 8\u66ff\u6362\u4e86Vista\u7684\u5185\u5bb9\uff1b\u7528\u76f8\u5f53\u5927\u7684\u7bc7\u5e45\u4ecb\u7ecd\u4e86\u79fb\u52a8\u7ec8\u7aef\u5e94\u7528\u6700\u5e7f\u6cdb\u3001\u53d1\u5c55\u6700\u5feb\u7684Android\uff0c\u4ee5\u66ff\u6362\u539f\u6765Symbian\u7684\u5185\u5bb9\uff1b\u589e\u52a0\u4e86\u65b0\u7684\u4e00\u7ae0\uff0c\u4ecb\u7ecd\u76ee\u524d\u6700\u6d41\u884c\u7684\u865a\u62df\u5316\u548c\u4e91\u6280\u672f\uff0c\u5176\u4e2d\u8fd8\u5305\u62ec\u5178\u578b\u6848\u4f8bVMware\u3002\u5f88\u591a\u7ae0\u8282\u5728\u5185\u5bb9\u5b89\u6392\u4e0a\u4e5f\u6709\u8f83\u5927\u7684\u6539\u52a8\uff0c\u4f8b\u5982\uff1a\u7b2c8\u7ae0\u5bf9\u591a\u5904\u7406\u673a\u7cfb\u7edf\u7684\u5185\u5bb9\u8fdb\u884c\u4e86\u5927\u5e45\u66f4\u65b0\uff1b\u7b2c9\u7ae0\u5bf9\u5b89\u5168\u7684\u5185\u5bb9\u8fdb\u884c\u4e86\u5927\u91cf\u4fee\u6539\u548c\u91cd\u65b0\u7ec4\u7ec7\uff0c\u589e\u52a0\u4e86\u5bf9\u7f3a\u9677\u4ee3\u7801\u3001\u6076\u610f\u8f6f\u4ef6\u8fdb\u884c\u63a2\u67e5\u548c\u9632\u5fa1\u7684\u65b0\u5185\u5bb9\uff0c\u5bf9\u4e8e\u7a7a\u6307\u9488\u5f15\u7528\u548c\u7f13\u51b2\u533a\u6ea2\u51fa\u7b49\u653b\u51fb\u884c\u4e3a\u63d0\u51fa\u4e86\u66f4\u8be6\u7ec6\u7684\u5e94\u5bf9\u65b9\u6cd5\uff0c\u5e76\u4ece\u653b\u51fb\u8def\u5f84\u5165\u624b\uff0c\u8be6\u7ec6\u8bba\u8ff0\u4e86\u5305\u542b\u91d1\u4e1d\u96c0\uff08canary\uff09\u4fdd\u62a4\u3001\u4e0d\u6267\u884c\uff08NX\uff09\u4f4d\u4ee5\u53ca\u5730\u5740\u7a7a\u95f4\u968f\u673a\u5316\u5728\u5185\u7684\u9632\u5fa1\u673a\u5236\u3002\u6700\u540e\u7684\u53c2\u8003\u6587\u732e\u4e5f\u8fdb\u884c\u4e86\u66f4\u65b0\uff0c\u6536\u5f55\u4e86\u672c\u4e66\u7b2c3\u7248\u63a8\u51fa\u540e\u53d1\u8868\u7684\u65b0\u8bba\u6587\u3002\u5927\u90e8\u5206\u7ae0\u8282\u6700\u540e\u7684\u76f8\u5173\u7814\u7a76\u90e8\u5206\u90fd\u5b8c\u5168\u91cd\u5199\u4e86\uff0c\u4ee5\u53cd\u6620\u6700\u65b0\u7684\u64cd\u4f5c\u7cfb\u7edf\u7814\u7a76\u6210\u679c\u3002<br>\u672c\u6559\u6750\u8fd8\u589e\u6dfb\u4e86\u4e00\u540d\u5408\u8457\u8005\u2014\u6765\u81ea\u963f\u59c6\u65af\u7279\u4e39\u81ea\u7531\u5927\u5b66\u7684 Herbert Bos\u6559\u6388\uff0c\u4ed6\u662f\u4e00\u540d\u5168\u65b9\u4f4d\u7684\u7cfb\u7edf\u4e13\u5bb6\uff0c\u5c24\u5176\u64c5\u957f\u5b89\u5168\u548cUNIX\u65b9\u9762\u3002<br>Tanenbaum\u6559\u6388\u7684\u6559\u6750\u8fd8\u6709\u4e00\u4e2a\u7279\u70b9\uff0c\u5c31\u662f\u4e30\u5bcc\u7684\u3001\u5f15\u53d1\u601d\u8003\u7684\u4e60\u9898\u3002\u6240\u6709\u7ae0\u8282\u540e\u9762\u90fd\u9644\u6709\u5927\u91cf\u7684\u4e60\u9898\uff0c\u5b8c\u6210\u8fd9\u4e9b\u4e60\u9898\u5f88\u4e0d\u5bb9\u6613\uff0c\u9700\u8981\u82b1\u8d39\u5f88\u957f\u65f6\u95f4\uff0c\u5728\u6df1\u5165\u7406\u89e3\u64cd\u4f5c\u7cfb\u7edf\u7cbe\u9ad3\u7684\u57fa\u7840\u4e0a\u624d\u80fd\u4f5c\u7b54\u3002\u8fd9\u4e9b\u4e60\u9898\u5f88\u7075\u6d3b\uff0c\u5e76\u4e14\u4e0e\u5b9e\u9645\u7cfb\u7edf\u76f8\u7ed3\u5408\uff0c\u65e2\u8003\u6838\u5bf9\u57fa\u672c\u6982\u5ff5\u3001\u5de5\u4f5c\u539f\u7406\u7684\u7406\u89e3\uff0c\u53c8\u8003\u6838\u5b9e\u9645\u52a8\u624b\u80fd\u529b\u3002<br>Tanenbaum\u6559\u6388\u7684\u6559\u6750\u662f\u9700\u8981\u7ec6\u7ec6\u9605\u8bfb\u7684\uff0c\u5b57\u91cc\u884c\u95f4\u4f53\u73b0\u4e86\u4ed6\u5bf9\u8bbe\u8ba1\u4e0e\u5b9e\u73b0\u64cd\u4f5c\u7cfb\u7edf\u7684\u5404\u79cd\u6280\u672f\u7684\u6df1\u5165\u601d\u8003\u3002\u6b63\u56e0\u4e3aTanenbaum\u6559\u6388\u81ea\u5df1\u8bbe\u8ba1\u5f00\u53d1\u4e86\u4e00\u4e2a\u5c0f\u578b\u3001\u771f\u5b9e\u7684\u64cd\u4f5c\u7cfb\u7edfMINIX\uff0c\u6240\u4ee5\u901a\u8fc7\u4ed6\u5728\u6559\u6750\u4e2d\u7684\u8bb2\u8ff0\uff0c\u8bfb\u8005\u53ef\u4ee5\u4e86\u89e3\u5b9e\u73b0\u64cd\u4f5c\u7cfb\u7edf\u65f6\u5e94\u8be5\u8003\u8651\u54ea\u4e9b\u95ee\u9898\u3001\u6ce8\u91cd\u54ea\u4e9b\u7ec6\u8282\u3002","kindleAvailable":false,"sendToEmailAvailable":false,"interestScore":"5.0","qualityScore":"5.0","dl":"\/dl\/3620438\/0df6b0","_isUserSavedBook":false}},{"id":10993017,"readlist_id":165858,"book_id":5302232,"description":null,"deleted":0,"date":{"date":"2021-11-16 07:46:19.000000","timezone_type":3,"timezone":"Europe\/Moscow"},"book":{"id":5302232,"title":"\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5\u5206\u6790: Java\u8bed\u8a00\u63cf\u8ff0=Data Structures and Algorithm Analysis in Java","author":"\u97e6\u65af (Mark Allen Weiss),\u51af\u821c\u73ba","volume":"","year":2009,"edition":"","publisher":"\u673a\u68b0\u5de5\u4e1a\u51fa\u7248\u793e","identifier":"9787111231837,711123183X","language":"chinese","extension":"pdf","pages":400,"filesize":23789932,"series":"\u8ba1\u7b97\u673a\u79d1\u5b66\u4e1b\u4e66","cover":"https:\/\/lib-pyvfleov2hccwdvgm2zstlsm.booksc.eu\/covers299\/books\/7b\/fa\/a2\/7bfaa22b1e29e9aa30dbd00ec0354ede.jpg","terms_hash":"","active":1,"filesizeString":"22.69 MB","href":"\/book\/5302232\/7ce04b","hash":"7ce04b","description":"\u672c\u4e66\u662f\u56fd\u5916\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5\u5206\u6790\u65b9\u9762\u7684\u7ecf\u5178\u6559\u6750\uff0c\u4f7f\u7528\u5353\u8d8a\u7684Java\u7f16\u7a0b\u8bed\u8a00\u4f5c\u4e3a\u5b9e\u73b0\u5de5\u5177\u8ba8\u8bba\u4e86\u6570\u636e\u7ed3\u6784\uff08\u7ec4\u7ec7\u5927\u91cf\u6570\u636e\u7684\u65b9\u6cd5\uff09\u548c\u7b97\u6cd5\u5206\u6790\uff08\u5bf9\u7b97\u6cd5\u8fd0\u884c\u65f6\u95f4\u7684\u4f30\u8ba1\uff09\u3002 \u968f\u7740\u8ba1\u7b97\u673a\u901f\u5ea6\u7684\u4e0d\u65ad\u589e\u52a0\u548c\u529f\u80fd\u7684\u65e5\u76ca\u5f3a\u5927\uff0c\u4eba\u4eec\u5bf9\u6709\u6548\u7f16\u7a0b\u548c\u7b97\u6cd5\u5206\u6790\u7684\u8981\u6c42\u4e5f\u4e0d\u65ad\u589e\u957f\u3002\u672c\u4e66\u628a\u7b97\u6cd5\u5206\u6790\u4e0e\u6700\u6709\u6548\u7387\u7684Java\u7a0b\u5e8f\u7684\u5f00\u53d1\u6709\u673a\u5730\u7ed3\u5408\u8d77\u6765\uff0c\u6df1\u5165\u5206\u6790\u6bcf\u79cd\u7b97\u6cd5\uff0c\u5185\u5bb9\u5168\u9762\u3001\u7f1c\u5bc6\u4e25\u683c\uff0c\u5e76\u7ec6\u81f4\u8bb2\u89e3\u7cbe\u5fc3\u6784\u9020\u7a0b\u5e8f\u7684\u65b9\u6cd5\u3002","kindleAvailable":false,"sendToEmailAvailable":false,"interestScore":"5.0","qualityScore":"5.0","dl":"\/dl\/5302232\/cedb50","_isUserSavedBook":false}},{"id":10993019,"readlist_id":165858,"book_id":5442421,"description":null,"deleted":0,"date":{"date":"2021-11-16 07:46:23.000000","timezone_type":3,"timezone":"Europe\/Moscow"},"book":{"id":5442421,"title":"\u7b97\u6cd5\u5bfc\u8bba\uff08\u539f\u4e66\u7b2c3\u7248\uff09","author":"Thomas H.Cormen,Charles E.Leiserson,Ronald L.Rivest,Clifford Stein","volume":"","year":2012,"edition":"","publisher":"\u673a\u68b0\u5de5\u4e1a\u51fa\u7248\u793e","identifier":"9787111407010,7111407016","language":"chinese","extension":"pdf","pages":0,"filesize":148013866,"series":"","cover":"https:\/\/lib-pyvfleov2hccwdvgm2zstlsm.booksc.eu\/covers299\/books\/64\/6c\/d7\/646cd72f167420516ef79b88700dc8d1.jpg","terms_hash":"","active":1,"filesizeString":"141.16 MB","href":"\/book\/5442421\/d42556","hash":"d42556","description":null,"kindleAvailable":false,"sendToEmailAvailable":false,"interestScore":"5.0","qualityScore":"5.0","dl":"\/dl\/5442421\/1d3570","_isUserSavedBook":false}},{"id":10993020,"readlist_id":165858,"book_id":5442418,"description":null,"deleted":0,"date":{"date":"2021-11-16 07:46:27.000000","timezone_type":3,"timezone":"Europe\/Moscow"},"book":{"id":5442418,"title":"\u8ba1\u7b97\u673a\u7f51\u7edc\uff1a\u81ea\u9876\u5411\u4e0b\u65b9\u6cd5\uff08\u7b2c6\u7248\uff09","author":"Keith W.Ross,James F.Kurose","volume":"","year":2014,"edition":"","publisher":"\u673a\u68b0\u5de5\u4e1a\u51fa\u7248\u793e","identifier":"9787111453789,7111453786","language":"chinese","extension":"pdf","pages":0,"filesize":124513257,"series":"","cover":"https:\/\/lib-pyvfleov2hccwdvgm2zstlsm.booksc.eu\/covers299\/books\/ea\/4b\/fb\/ea4bfbde0571819bfebff29a073aca92.jpg","terms_hash":"8d4ce77ac1ac261e2a4fe96ce66c2aa2","active":1,"filesizeString":"118.75 MB","href":"\/book\/5442418\/9cdab7","hash":"9cdab7","description":null,"kindleAvailable":false,"sendToEmailAvailable":false,"interestScore":"5.0","qualityScore":"5.0","dl":"\/dl\/5442418\/ebe0ca","_isUserSavedBook":false}},{"id":10993023,"readlist_id":165858,"book_id":5458196,"description":null,"deleted":0,"date":{"date":"2021-11-16 07:46:37.000000","timezone_type":3,"timezone":"Europe\/Moscow"},"book":{"id":5458196,"title":"\u7f16\u8bd1\u539f\u7406 \u7b2c\u4e8c\u7248","author":"Alfred V. Aho,Monica S.Lam, Ravi Sethi, Jeffrey D. Ullman","volume":"","year":2009,"edition":"2","publisher":"\u673a\u68b0\u5de5\u4e1a\u51fa\u7248\u793e","identifier":"9787111251217,7111251210","language":"chinese","extension":"pdf","pages":631,"filesize":25644162,"series":"\u8ba1\u7b97\u673a\u79d1\u5b66\u4e1b\u4e66","cover":"https:\/\/lib-pyvfleov2hccwdvgm2zstlsm.booksc.eu\/covers299\/books\/56\/85\/aa\/5685aa643e50127c3aa8400e8571ec5a.jpg","terms_hash":"","active":1,"filesizeString":"24.46 MB","href":"\/book\/5458196\/e37554","hash":"e37554","description":"<p>\u672c\u4e66\u5168\u9762\u3001\u6df1\u5165\u5730\u63a2\u8ba8\u4e86\u7f16\u8bd1\u5668\u8bbe\u8ba1\u65b9\u9762\u7684\u91cd\u8981\u4e3b\u9898\uff0c\u5305\u62ec\u8bcd\u6cd5\u5206\u6790\u3001\u8bed\u6cd5\u5206\u6790\u3001\u8bed\u6cd5\u5236\u5bfc\u5b9a\u4e49\u548c\u8bed\u6cd5\u5236\u5bfc\u7ffb\u8bd1\u3001\u8fd0\u884c\u65f6\u523b\u73af\u5883\u3001\u76ee\u6807\u4ee3\u7801\u751f\u6210\u3001\u4ee3\u7801\u4f18\u5316\u6280\u672f\u3001\u5e76\u884c\u6027\u68c0\u6d4b\u4ee5\u53ca\u8fc7\u7a0b\u95f4\u5206\u6790\u6280\u672f\uff0c\u5e76\u5728\u76f8\u5173\u7ae0\u8282\u4e2d\u7ed9\u51fa\u5927\u91cf\u7684\u5b9e\u4f8b\u3002\u4e0e\u4e0a\u4e00\u7248\u76f8\u6bd4\uff0c\u672c\u4e66\u8fdb\u884c\u4e86\u5168\u9762\u7684\u4fee\u8ba2\uff0c\u6db5\u76d6\u4e86\u7f16\u8bd1\u5668\u5f00\u53d1\u65b9\u9762\u7684\u6700\u65b0\u8fdb\u5c55\u3002\u6bcf\u7ae0\u4e2d\u90fd\u63d0\u4f9b\u4e86\u5927\u91cf\u7684\u7cfb\u7edf\u53ca\u53c2\u8003\u6587\u732e\u3002<p>\u672c\u4e66\u662f\u7f16\u8bd1\u539f\u7406\u8bfe\u7a0b\u65b9\u9762\u7684\u7ecf\u5178\u6559\u6750\uff0c\u5185\u5bb9\u4e30\u5bcc\uff0c\u9002\u5408\u4f5c\u4e3a\u9ad8\u7b49\u9662\u6821\u8ba1\u7b97\u673a\u53ca\u76f8\u5173\u4e13\u4e1a\u672c\u79d1\u751f\u53ca\u7814\u7a76\u751f\u7684\u7f16\u8bd1\u539f\u7406\u8bfe\u7a0b\u7684\u6559\u6750\uff0c\u4e5f\u662f\u5e7f\u5927\u6280\u672f\u4eba\u5458\u7684\u6781\u4f73\u53c2\u8003\u8bfb\u7269\u3002<\/p>","kindleAvailable":false,"sendToEmailAvailable":false,"interestScore":"4.0","qualityScore":"4.0","dl":"\/dl\/5458196\/a47a56","_isUserSavedBook":false}},{"id":10993027,"readlist_id":165858,"book_id":11938580,"description":null,"deleted":0,"date":{"date":"2021-11-16 07:46:46.000000","timezone_type":3,"timezone":"Europe\/Moscow"},"book":{"id":11938580,"title":"\u73b0\u4ee3\u64cd\u4f5c\u7cfb\u7edf\uff08\u7b2c\u56db\u7248\uff09","author":"Andrew S. Tanenbaum and Herbert Bos","volume":"","year":2017,"edition":"4","publisher":"\u673a\u68b0\u5de5\u4e1a\u51fa\u7248\u793e","identifier":"9787111573692,7111573692","language":"chinese","extension":"pdf","pages":610,"filesize":193539907,"series":"","cover":"https:\/\/lib-pyvfleov2hccwdvgm2zstlsm.booksc.eu\/covers299\/books\/32\/05\/7d\/32057d75231fd618aeee089f5dfe20b7.jpeg","terms_hash":"","active":1,"filesizeString":"184.57 MB","href":"\/book\/11938580\/a62c13","hash":"a62c13","description":null,"kindleAvailable":false,"sendToEmailAvailable":false,"interestScore":"0","qualityScore":"0","dl":"\/dl\/11938580\/090841","_isUserSavedBook":false}},{"id":10993034,"readlist_id":165858,"book_id":5693356,"description":null,"deleted":0,"date":{"date":"2021-11-16 07:47:23.000000","timezone_type":3,"timezone":"Europe\/Moscow"},"book":{"id":5693356,"title":"\u6df1\u5165\u7406\u89e3\u673a\u5668\u5b66\u4e60\uff1a\u4ece\u539f\u7406\u5230\u7b97\u6cd5","author":"Shai Shalev  Shwartz; Shai Ben David","volume":"","year":2016,"edition":"","publisher":"\u673a\u68b0\u5de5\u4e1a\u51fa\u7248\u793e","identifier":"9787111543022,7111543025","language":"chinese","extension":"pdf","pages":309,"filesize":65606379,"series":"\u8ba1\u7b97\u673a\u79d1\u5b66\u4e1b\u4e66","cover":"https:\/\/lib-pyvfleov2hccwdvgm2zstlsm.booksc.eu\/covers299\/books\/a5\/04\/63\/a50463de140ed07c6853b47a1a5909ce.jpg","terms_hash":"","active":1,"filesizeString":"62.57 MB","href":"\/book\/5693356\/0324a1","hash":"0324a1","description":"\u4e66\u7b7e\u5df2\u88c5\u8f7d\uff0c<br>\u4e66\u7b7e\u5236\u4f5c\u65b9\u6cd5\u8bf7\u627e yjyouaremysunshine@163.com<br>\u5b8c\u5168\u514d\u8d39<br>\u672c\u4e66\u6db5\u76d6\u4e86\u673a\u5668\u5b66\u4e60\u9886\u57df\u4e2d\u7684\u4e25\u8c28\u7406\u8bba\u548c\u5b9e\u7528\u65b9\u6cd5\uff0c\u8ba8\u8bba\u4e86\u5b66\u4e60\u7684\u8ba1\u7b97\u590d\u6742\u5ea6\u3001\u51f8\u6027\u548c\u7a33\u5b9a\u6027\u3001PAC-\u8d1d\u53f6\u65af\u65b9\u6cd5\u3001\u538b\u7f29\u754c\u7b49\u6982\u5ff5\uff0c\u5e76\u4ecb\u7ecd\u4e86\u4e00\u4e9b\u91cd\u8981\u7684\u7b97\u6cd5\u8303\u5f0f\uff0c\u5305\u62ec\u968f\u673a\u68af\u5ea6\u4e0b\u964d\u3001\u795e\u7ecf\u5143\u7f51\u7edc\u4ee5\u53ca\u7ed3\u6784\u5316\u8f93\u51fa\u3002<br>\u5168\u4e66\u8bb2\u89e3\u5168\u9762\u900f\u5f7b\uff0c\u9002\u5408\u6709\u4e00\u5b9a\u57fa\u7840\u7684\u9ad8\u5e74\u7ea7\u672c\u79d1\u751f\u548c\u7814\u7a76\u751f\u5b66\u4e60\uff0c\u4e5f\u9002\u5408\u4f5c\u4e3aIT\u884c\u4e1a\u4ece\u4e8b\u6570\u636e\u5206\u6790\u548c\u6316\u6398\u7684\u4e13\u4e1a\u4eba\u5458\u4ee5\u53ca\u7814\u7a76\u4eba\u5458\u53c2\u8003\u9605\u8bfb\u3002","kindleAvailable":false,"sendToEmailAvailable":false,"interestScore":"5.0","qualityScore":"5.0","dl":"\/dl\/5693356\/6d9a0b","_isUserSavedBook":false}},{"id":10993035,"readlist_id":165858,"book_id":4997337,"description":null,"deleted":0,"date":{"date":"2021-11-16 07:47:27.000000","timezone_type":3,"timezone":"Europe\/Moscow"},"book":{"id":4997337,"title":"\u81ea\u52a8\u673a\u7406\u8bba\u3001\u8bed\u8a00\u548c\u8ba1\u7b97\u5bfc\u8bba \u7b2c\u4e09\u7248","author":"Hoperoft. J. E.","volume":"","year":0,"edition":"","publisher":"\u673a\u68b0\u5de5\u4e1a\u51fa\u7248\u793e","identifier":"","language":"chinese","extension":"pdf","pages":380,"filesize":74088813,"series":"\u8ba1\u7b97\u673a\u79d1\u5b66\u4e1b\u4e66","cover":"https:\/\/lib-pyvfleov2hccwdvgm2zstlsm.booksc.eu\/covers299\/books\/66\/9d\/b7\/669db78e8676f1af647f3a49605c1807.jpg","terms_hash":"","active":1,"filesizeString":"70.66 MB","href":"\/book\/4997337\/2bdc05","hash":"2bdc05","description":"","kindleAvailable":false,"sendToEmailAvailable":false,"interestScore":"4.5","qualityScore":"4.0","dl":"\/dl\/4997337\/8bf0b7","_isUserSavedBook":false}},{"id":10993037,"readlist_id":165858,"book_id":5693354,"description":null,"deleted":0,"date":{"date":"2021-11-16 07:47:31.000000","timezone_type":3,"timezone":"Europe\/Moscow"},"book":{"id":5693354,"title":"\u673a\u5668\u5b66\u4e60\u5bfc\u8bba\uff08\u539f\u4e66\u7b2c3\u7248\uff09","author":"[\u571f\u8033\u5176] \u57c3\u585e\u59c6\u00b7\u963f\u57f9\u4e01\uff08EthemAlpaydin\uff09","volume":"","year":2016,"edition":"","publisher":"\u673a\u68b0\u5de5\u4e1a\u51fa\u7248\u793e","identifier":"9787111521945,7111521943","language":"chinese","extension":"pdf","pages":356,"filesize":64029967,"series":"\u8ba1\u7b97\u673a\u79d1\u5b66\u4e1b\u4e66","cover":"https:\/\/lib-pyvfleov2hccwdvgm2zstlsm.booksc.eu\/covers299\/books\/6e\/97\/e2\/6e97e24d980dad0fb957d02394059467.jpg","terms_hash":"","active":1,"filesizeString":"61.06 MB","href":"\/book\/5693354\/709df1","hash":"709df1","description":"\u4e66\u7b7e\u5df2\u88c5\u8f7d\uff0c<br>\u4e66\u7b7e\u5236\u4f5c\u65b9\u6cd5\u8bf7\u627e yjyouaremysunshine@163.com<br>\u5b8c\u5168\u514d\u8d39<br>\u673a\u5668\u5b66\u4e60\u7684\u76ee\u6807\u662f\u5bf9\u8ba1\u7b97\u673a\u7f16\u7a0b\uff0c\u4ee5\u4fbf\u4f7f\u7528\u6837\u672c\u6570\u636e\u6216\u4ee5\u5f80\u7684\u7ecf\u9a8c\u6765\u89e3\u51b3\u7ed9\u5b9a\u7684\u95ee\u9898\u3002\u5df2\u7ecf\u6709\u8bb8\u591a\u673a\u5668\u5b66\u4e60\u7684\u6210\u529f\u5e94\u7528\uff0c\u5305\u62ec\u5206\u6790\u4ee5\u5f80\u9500\u552e\u6570\u636e\u6765\u9884\u6d4b\u5ba2\u6237\u884c\u4e3a\uff0c\u4f18\u5316\u673a\u5668\u4eba\u7684\u884c\u4e3a\u4ee5\u4fbf\u4f7f\u7528\u8f83\u5c11\u7684\u8d44\u6e90\u6765\u5b8c\u6210\u4efb\u52a1\uff0c\u4ee5\u53ca\u4ece\u751f\u7269\u4fe1\u606f\u6570\u636e\u4e2d\u63d0\u53d6\u77e5\u8bc6\u7684\u5404\u79cd\u7cfb\u7edf\u3002\u672c\u4e66\u662f\u5173\u4e8e\u673a\u5668\u5b66\u4e60\u7684\u5185\u5bb9\u5168\u9762\u7684\u6559\u79d1\u4e66\uff0c\u5176\u4e2d\u6709\u4e9b\u5185\u5bb9\u5728\u4e00\u822c\u7684\u5728\u673a\u5668\u5b66\u4e60\u5bfc\u8bba\u4e66\u4e2d\u5f88\u5c11\u4ecb\u7ecd\u3002\u4e3b\u8981\u5185\u5bb9\u5305\u62ec\u76d1\u7763\u5b66\u4e60\uff0c\u8d1d\u53f6\u65af\u51b3\u7b56\u7406\u8bba\uff0c\u53c2\u6570\u3001\u534a\u53c2\u6570\u548c\u975e\u53c2\u6570\u65b9\u6cd5\uff0c\u591a\u5143\u5206\u6790\uff0c\u9690\u9a6c\u5c14\u53ef\u592b\u6a21\u578b\uff0c\u589e\u5f3a\u5b66\u4e60\uff0c\u6838\u673a\u5668\uff0c\u56fe\u6a21\u578b\uff0c\u8d1d\u53f6\u65af\u4f30\u8ba1\u548c\u7edf\u8ba1\u68c0\u9a8c\u3002<br>\u673a\u5668\u5b66\u4e60\u6b63\u5728\u8fc5\u901f\u6210\u4e3a\u8ba1\u7b97\u673a\u79d1\u5b66\u4e13\u4e1a\u7684\u5b66\u751f\u5fc5\u987b\u638c\u63e1\u7684\u4e00\u95e8\u6280\u80fd\u3002\u672c\u4e66\u7b2c3\u7248\u53cd\u6620\u4e86\u8fd9\u79cd\u53d8\u5316\uff0c\u589e\u52a0\u4e86\u5bf9\u521d\u5b66\u8005\u7684\u652f\u6301\uff0c\u5305\u62ec\u7ed9\u51fa\u4e86\u90e8\u5206\u4e60\u9898\u7684\u53c2\u8003\u7b54\u6848\u548c\u8865\u5145\u4e86\u5b9e\u4f8b\u6570\u636e\u96c6\uff08\u63d0\u4f9b\u5728\u7ebf\u4ee3\u7801\uff09\u3002\u5176\u4ed6\u663e\u8457\u7684\u53d8\u5316\u5305\u62ec\u79bb\u7fa4\u70b9\u68c0\u6d4b\u7684\u8ba8\u8bba\u3001\u611f\u77e5\u5668\u548c\u652f\u6301\u5411\u91cf\u673a\u7684\u6392\u540d\u7b97\u6cd5\u3001\u77e9\u9635\u5206\u89e3\u548c\u8c31\u65b9\u6cd5\u3001\u8ddd\u79bb\u4f30\u8ba1\u3001\u65b0\u7684\u6838\u7b97\u6cd5\u3001\u591a\u5c42\u611f\u77e5\u5668\u7684\u6df1\u5ea6\u5b66\u4e60\u548c\u975e\u53c2\u6570\u8d1d\u53f6\u65af\u65b9\u6cd5\u3002\u4e66\u4e2d\u5bf9\u6240\u6709\u5b66\u4e60\u7b97\u6cd5\u90fd\u8fdb\u884c\u4e86\u89e3\u91ca\uff0c\u4ee5\u4fbf\u8bfb\u8005\u53ef\u4ee5\u5f88\u5bb9\u6613\u5730\u5c06\u4e66\u4e2d\u7684\u516c\u5f0f\u8f6c\u53d8\u4e3a\u8ba1\u7b97\u673a\u7a0b\u5e8f\u3002\u672c\u4e66\u53ef\u4ee5\u7528\u4f5c\u9ad8\u5e74\u7ea7\u672c\u79d1\u751f\u548c\u7855\u58eb\u7814\u7a76\u751f\u7684\u6559\u6750\uff0c\u4e5f\u53ef\u4f9b\u7814\u7a76\u673a\u5668\u5b66\u4e60\u65b9\u6cd5\u7684\u6280\u672f\u4eba\u5458\u53c2\u8003\u3002","kindleAvailable":false,"sendToEmailAvailable":false,"interestScore":"5.0","qualityScore":"5.0","dl":"\/dl\/5693354\/538f31","_isUserSavedBook":false}},{"id":10993039,"readlist_id":165858,"book_id":5744791,"description":null,"deleted":0,"date":{"date":"2021-11-16 07:47:36.000000","timezone_type":3,"timezone":"Europe\/Moscow"},"book":{"id":5744791,"title":"\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5\u5206\u6790","author":"Weiss, Mark Allen\u00b7\u97e6\u65af,\u97e6\u65af","volume":"","year":2004,"edition":null,"publisher":"\u673a\u68b0\u5de5\u4e1a\u51fa\u7248\u793e","identifier":"9787111127482,711112748X","language":"chinese","extension":"pdf","pages":391,"filesize":40766490,"series":"","cover":"https:\/\/lib-pyvfleov2hccwdvgm2zstlsm.booksc.eu\/covers299\/books\/ca\/81\/b0\/ca81b0b2f3cb364adb282e1262daa01f.jpg","terms_hash":"","active":1,"filesizeString":"38.88 MB","href":"\/book\/5744791\/d77a59","hash":"d77a59","description":"<p>\u672c\u4e66\u662f\u300aData Structures and Algorithm Analysis in C\u300b\u4e00\u4e66\u7b2c2\u7248\u7684\u7b80\u4f53\u4e2d\u8bd1\u672c\u3002\u539f\u4e66\u66fe\u88ab\u8bc4\u4e3a20\u4e16\u7eaa\u9876\u5c16\u768430\u90e8\u8ba1\u7b97\u673a\u8457\u4f5c\u4e4b\u4e00\uff0c\u4f5c\u8005Mark Allen Weiss\u5728\u6570\u636e\u7ed3\u6784\u548c\u7b97\u6cd5\u5206\u6790\u65b9\u9762\u5353\u6709\u5efa\u6811\uff0c\u4ed6\u7684\u6570\u636e\u7ed3\u6784\u548c\u7b97\u6cd5\u5206\u6790\u7684\u8457\u4f5c\u5c24\u5176\u7545\u9500\uff0c\u5e76\u53d7\u5230\u5e7f\u6cdb\u597d\u8bc4\uff0e\u5df2\u88ab\u4e16\u754c500\u4f59\u6240\u5927\u5b66\u7528\u4f5c\u6559\u6750\u3002<p>\u5728\u672c\u4e66\u4e2d\uff0c\u4f5c\u8005\u66f4\u52a0\u7cbe\u70bc\u5e76\u5f3a\u5316\u4e86\u4ed6\u5bf9\u7b97\u6cd5\u548c\u6570\u636e\u7ed3\u6784\u65b9\u9762\u521b\u65b0\u7684\u5904\u7406\u65b9\u6cd5\u3002\u901a\u8fc7C\u7a0b\u5e8f\u7684\u5b9e\u73b0\uff0c\u7740\u91cd\u9610\u8ff0\u4e86\u62bd\u8c61\u6570\u636e\u7c7b\u578b\u7684\u6982\u5ff5\uff0c\u5e76\u5bf9\u7b97\u6cd5\u7684\u6548\u7387\u3001\u6027\u80fd\u548c\u8fd0\u884c\u65f6\u95f4\u8fdb\u884c\u4e86\u5206\u6790\u3002<p>\u5168\u4e66\u7279\u70b9\u5982\u4e0b\uff1a<p>\u25cf\u4e13\u7528\u4e00\u7ae0\u6765\u8ba8\u8bba\u7b97\u6cd5\u8bbe\u8ba1\u6280\u5de7\uff0c\u5305\u62ec\u8d2a\u5a6a\u7b97\u6cd5\u3001\u5206\u6cbb\u7b97\u6cd5\u3001\u52a8\u6001\u89c4\u5212\u3001\u968f\u673a\u5316\u7b97\u6cd5\u4ee5\u53ca\u56de\u6eaf\u7b97\u6cd5<p>\u25cf\u4ecb\u7ecd\u4e86\u5f53\u524d\u6d41\u884c\u7684\u8bba\u9898\u548c\u65b0\u7684\u6570\u636e\u7ed3\u6784\uff0c\u5982\u6590\u6ce2\u90a3\u5951\u5806\u3001\u659c\u5806\u3001\u4e8c\u9879\u961f\u5217\u3001\u8df3\u8dc3\u8868\u548c\u4f38\u5c55\u6811<p>\u25cf\u5b89\u6392\u4e00\u7ae0\u4e13\u95e8\u8ba8\u8bba\u644a\u8fd8\u5206\u6790\uff0c\u8003\u67e5\u4e66\u4e2d\u4ecb\u7ecd\u7684\u4e00\u4e9b\u9ad8\u7ea7\u6570\u636e\u7ed3\u6784<p>\u25cf\u65b0\u5f00\u8f9f\u4e00\u7ae0\u8ba8\u8bba\u9ad8\u7ea7\u6570\u636e\u7ed3\u6784\u4ee5\u53ca\u5b83\u4eec\u7684\u5b9e\u73b0\uff0c\u5176\u4e2d\u5305\u62ec\u7ea2\u9ed1\u6811\u3001\u81ea\u9876\u5411\u4e0b\u4f38\u5c55\u6811\u3002treap\u6811\u3001k-d\u6811\u3001\u914d\u5bf9\u5806\u4ee5\u53ca\u5176\u4ed6\u76f8\u5173\u5185\u5bb9<p>\u25cf\u5408\u5e76\u4e86\u5806\u6392\u5e8f\u5e73\u5747\u60c5\u51b5\u5206\u6790\u7684\u4e00\u4e9b\u65b0\u7ed3\u679c<p>\u672c\u4e66\u662f\u56fd\u5916\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5\u5206\u6790\u65b9\u9762\u7684\u6807\u51c6\u6559\u6750\uff0c\u4ecb\u7ecd\u4e86\u6570\u636e\u7ed3\u6784(\u5927\u91cf\u6570\u636e\u7684\u7ec4\u7ec7\u65b9\u6cd5)\u4ee5\u53ca\u7b97\u6cd5\u5206\u6790(\u7b97\u6cd5\u8fd0\u884c\u65f6\u95f4\u7684\u4f30\u7b97)\u3002\u672c\u4e66\u7684\u7f16\u5199\u76ee\u6807\u662f\u540c\u65f6\u8bb2\u6388\u597d\u7684\u7a0b\u5e8f\u8bbe\u8ba1\u548c\u7b97\u6cd5\u5206\u6790\u6280\u5de7\uff0c\u4f7f\u8bfb\u8005\u53ef\u4ee5\u5f00\u53d1\u51fa\u5177\u6709\u6700\u9ad8\u6548\u7387\u7684\u7a0b\u5e8f\u3002 \u672c\u4e66\u53ef\u4f5c\u4e3a\u9ad8\u7ea7\u6570\u636e\u7ed3\u6784\u8bfe\u7a0b\u6216\u7814\u7a76\u751f\u4e00\u5e74\u7ea7\u7b97\u6cd5\u5206\u6790\u8bfe\u7a0b\u7684\u6559\u6750\uff0c\u4f7f\u7528\u672c\u4e66\u9700\u5177\u6709\u4e00\u4e9b\u4e2d\u7ea7\u7a0b\u5e8f\u8bbe\u8ba1\u77e5\u8bc6\uff0c\u8fd8\u9700\u8981\u79bb\u6563\u6570\u5b66\u7684\u4e00\u4e9b\u80cc\u666f\u77e5\u8bc6\u3002<\/p>","kindleAvailable":false,"sendToEmailAvailable":false,"interestScore":"4.0","qualityScore":"4.0","dl":"\/dl\/5744791\/13e830","_isUserSavedBook":false}},{"id":10993041,"readlist_id":165858,"book_id":5668959,"description":null,"deleted":0,"date":{"date":"2021-11-16 07:47:41.000000","timezone_type":3,"timezone":"Europe\/Moscow"},"book":{"id":5668959,"title":"\u6570\u636e\u6316\u6398\uff1a\u5b9e\u7528\u673a\u5668\u5b66\u4e60\u5de5\u5177\u4e0e\u6280\u672f\uff08\u539f\u4e66\u7b2c3\u7248\uff09","author":"Ian H.Witten; Eibe Frank","volume":"","year":2014,"edition":"","publisher":"\u673a\u68b0\u5de5\u4e1a\u51fa\u7248\u793e","identifier":"9787111453819,7111453816","language":"chinese","extension":"pdf","pages":480,"filesize":163715708,"series":"\u8ba1\u7b97\u673a\u79d1\u5b66\u4e1b\u4e66","cover":"https:\/\/lib-pyvfleov2hccwdvgm2zstlsm.booksc.eu\/covers299\/books\/4a\/18\/c2\/4a18c2771068e15eca62cfe8968e183e.jpg","terms_hash":"","active":1,"filesizeString":"156.13 MB","href":"\/book\/5668959\/98b609","hash":"98b609","description":"\u4e66\u7b7e\u5df2\u88c5\u8f7d\uff0c<br>\u4e66\u7b7e\u5236\u4f5c\u65b9\u6cd5\u8bf7\u627e yjyouaremysunshine@163.com<br>\u5b8c\u5168\u514d\u8d39<br>\u5927\u6570\u636e\u65f6\u4ee3\u5e94\u7528\u673a\u5668\u5b66\u4e60\u65b9\u6cd5\u89e3\u51b3\u6570\u636e\u6316\u6398\u95ee\u9898\u7684\u5b9e\u7528\u6307\u5357\u3002<br>\u6d1e\u5bdf\u9690\u533f\u4e8e\u5927\u6570\u636e\u4e2d\u7684\u7ed3\u6784\u6a21\u5f0f\uff0c\u6709\u6548\u6307\u5bfc\u6570\u636e\u6316\u6398\u5b9e\u8df5\u548c\u5546\u4e1a\u5e94\u7528\u3002<br>weka\u7cfb\u7edf\u7684\u4e3b\u8981\u5f00\u53d1\u8005\u5c06\u4e30\u5bcc\u7684\u7814\u53d1\u3001\u5546\u4e1a\u5e94\u7528\u548c\u6559\u5b66\u5b9e\u8df5\u7684\u7ecf\u9a8c\u548c\u6280\u672f\u878d\u4f1a\u8d2f\u901a\u3002<br>\u5e7f\u6cdb\u8986\u76d6\u5728\u6570\u636e\u6316\u6398\u5b9e\u8df5\u4e2d\u91c7\u7528\u7684\u7b97\u6cd5\u548c\u673a\u5668\u5b66\u4e60\u6280\u672f\uff0c\u7740\u773c\u4e8e\u89e3\u51b3\u5b9e\u9645\u95ee\u9898<br>\u907f\u514d\u8fc7\u5206\u8981\u6c42\u7406\u8bba\u57fa\u7840\u548c\u6570\u5b66\u77e5\u8bc6\uff0c\u91cd\u70b9\u5728\u4e8e\u544a\u8bc9\u8bfb\u8005\u201c\u5982\u4f55\u53bb\u505a\u201d\uff0c\u540c\u65f6\u5305\u62ec\u8bb8\u591a\u7b97\u6cd5\u3001\u4ee3\u7801\u4ee5\u53ca\u5177\u4f53\u5b9e\u4f8b\u7684\u5b9e\u73b0\u3002<br>\u5c06\u6240\u6709\u7684\u6982\u5ff5\u90fd\u5efa\u7acb\u5728\u5177\u4f53\u5b9e\u4f8b\u7684\u57fa\u7840\u4e4b\u4e0a\uff0c\u4fc3\u4f7f\u8bfb\u8005\u9996\u5148\u8003\u8651\u4f7f\u7528\u7b80\u5355\u7684\u6280\u672f\u3002\u5982\u679c\u7b80\u5355\u7684\u6280\u672f\u4e0d\u8db3\u4ee5\u89e3\u51b3\u95ee\u9898\uff0c\u518d\u8003\u8651\u63d0\u5347\u5230\u66f4\u4e3a\u590d\u6742\u7684\u9ad8\u7ea7\u6280\u672f\u3002<br>\u65b0\u7248\u589e\u52a0\u4e86\u5927\u91cf\u8fd1\u5e74\u6765\u6700\u65b0\u6d8c\u73b0\u7684\u6570\u636e\u6316\u6398\u7b97\u6cd5\u548c\u8bf8\u5982Web\u6570\u636e\u6316\u6398\u7b49\u65b0\u9886\u57df\u7684\u4ecb\u7ecd\uff0c\u6240\u4ecb\u7ecd\u7684weka\u7cfb\u7edf\u589e\u52a0\u4e8650%\u7684\u7b97\u6cd5\u53ca\u5927\u91cf\u65b0\u5185\u5bb9\u3002<br>\u672c\u4e66\u662f\u673a\u5668\u5b66\u4e60\u548c\u6570\u636e\u6316\u6398\u9886\u57df\u7684\u7ecf\u5178\u7545\u9500\u6559\u6750\uff0c\u88ab\u4f17\u591a\u56fd\u5916\u540d\u6821\u9009\u4e3a\u6559\u6750\u3002\u4e66\u4e2d\u8be6\u7ec6\u4ecb\u7ecd\u7528\u4e8e\u6570\u636e\u6316\u6398\u9886\u57df\u7684\u673a\u5668\u5b66\u4e60\u6280\u672f\u548c\u5de5\u5177\u4ee5\u53ca\u5b9e\u8df5\u65b9\u6cd5\uff0c\u5e76\u4e14\u63d0\u4f9b\u4e86\u4e00\u4e2a\u516c\u5f00\u7684\u6570\u636e\u6316\u6398\u5de5\u4f5c\u5e73\u53f0Weka\u3002\u672c\u4e66\u4e3b\u8981\u5185\u5bb9\u5305\u62ec\uff1a\u6570\u636e\u8f93\u5165\/\u8f93\u51fa\u3001\u77e5\u8bc6\u8868\u793a\u3001\u6570\u636e\u6316\u6398\u6280\u672f\uff08\u51b3\u7b56\u6811\u3001\u5173\u8054\u89c4\u5219\u3001\u57fa\u4e8e\u5b9e\u4f8b\u7684\u5b66\u4e60\u3001\u7ebf\u6027\u6a21\u578b\u3001\u805a\u7c7b\u3001\u591a\u5b9e\u4f8b\u5b66\u4e60\u7b49\uff09\u4ee5\u53ca\u5728\u5b9e\u8df5\u4e2d\u7684\u8fd0\u7528\u3002\u672c\u7248\u5bf9\u4e0a\u4e00\u7248\u5185\u5bb9\u8fdb\u884c\u4e86\u5168\u9762\u66f4\u65b0\uff0c\u4ee5\u53cd\u6620\u81ea\u7b2c2\u7248\u51fa\u7248\u4ee5\u6765\u6570\u636e\u6316\u6398\u9886\u57df\u7684\u6280\u672f\u53d8\u9769\u548c\u65b0\u65b9\u6cd5\uff0c\u5305\u62ec\u6570\u636e\u8f6c\u6362\u3001\u96c6\u6210\u5b66\u4e60\u3001\u5927\u89c4\u6a21\u6570\u636e\u96c6\u3001\u591a\u5b9e\u4f8b\u5b66\u4e60\u7b49\uff0c\u4ee5\u53ca\u65b0\u7248\u7684Weka\u673a\u5668\u5b66\u4e60\u8f6f\u4ef6\u3002","kindleAvailable":false,"sendToEmailAvailable":false,"interestScore":"3.5","qualityScore":"5.0","dl":"\/dl\/5668959\/95541a","_isUserSavedBook":false}},{"id":10993042,"readlist_id":165858,"book_id":5630412,"description":null,"deleted":0,"date":{"date":"2021-11-16 07:47:47.000000","timezone_type":3,"timezone":"Europe\/Moscow"},"book":{"id":5630412,"title":"\u8ba1\u7b97\u673a\u7a0b\u5e8f\u7684\u6784\u9020\u548c\u89e3\u91ca\uff08\u539f\u4e66\u7b2c2\u7248\uff09","author":"Harold Abelson, Gerald Jay Sussman","volume":"","year":2004,"edition":"1","publisher":"\u673a\u68b0\u5de5\u4e1a\u51fa\u7248\u793e","identifier":"9787111135104,7111135105","language":"chinese","extension":"pdf","pages":473,"filesize":26767435,"series":"\u8ba1\u7b97\u673a\u79d1\u5b66\u4e1b\u4e66","cover":"https:\/\/lib-pyvfleov2hccwdvgm2zstlsm.booksc.eu\/covers299\/books\/f8\/eb\/56\/f8eb56b569d642542354355d427c5489.jpg","terms_hash":"","active":1,"filesizeString":"25.53 MB","href":"\/book\/5630412\/cbf700","hash":"cbf700","description":null,"kindleAvailable":false,"sendToEmailAvailable":false,"interestScore":"5.0","qualityScore":"4.0","dl":"\/dl\/5630412\/046795","_isUserSavedBook":false}},{"id":10993043,"readlist_id":165858,"book_id":5693344,"description":null,"deleted":0,"date":{"date":"2021-11-16 07:47:51.000000","timezone_type":3,"timezone":"Europe\/Moscow"},"book":{"id":5693344,"title":"\u8f6f\u4ef6\u5de5\u7a0b: \u67b6\u6784\u9a71\u52a8\u7684\u8f6f\u4ef6\u5f00\u53d1","author":"[\u7f8e]\u7406\u67e5\u5fb7 F. \u65bd\u5bc6\u7279","volume":"","year":2016,"edition":"","publisher":"\u673a\u68b0\u5de5\u4e1a\u51fa\u7248\u793e","identifier":"9787111533146,7111533143","language":"chinese","extension":"pdf","pages":221,"filesize":52117964,"series":"\u8ba1\u7b97\u673a\u79d1\u5b66\u4e1b\u4e66","cover":"https:\/\/lib-pyvfleov2hccwdvgm2zstlsm.booksc.eu\/covers299\/books\/01\/ed\/ac\/01edac4e1febaef20b826165b087552f.jpg","terms_hash":"","active":1,"filesizeString":"49.70 MB","href":"\/book\/5693344\/ac25fc","hash":"ac25fc","description":"\u4e66\u7b7e\u5df2\u88c5\u8f7d\uff0c<br>\u4e66\u7b7e\u5236\u4f5c\u65b9\u6cd5\u8bf7\u627e yjyouaremysunshine@163.com<br>\u5b8c\u5168\u514d\u8d39<br>\u672c\u4e66\u6bd4\u8f83\u5168\u9762\u5730\u4ecb\u7ecd\u8f6f\u4ef6\u5de5\u7a0b\u5b66\u79d1\uff0c\u5c55\u793a\u8f6f\u4ef6\u5de5\u7a0b\u539f\u5219\u4e0e\u57fa\u4e8e\u7cfb\u7edf\u5de5\u7a0b\u7684\u8f6f\u4ef6\u5b9e\u8df5\uff0c\u9610\u660e\u4e0e\u8f6f\u4ef6\u5de5\u7a0b\u6240\u7528\u7684\u4e25\u683c\u65b9\u6cd5\u76f8\u5173\u7684\u5b9e\u8df5\u6d3b\u52a8\u3001\u539f\u5219\u3001\u4efb\u52a1\u548c\u5de5\u4ef6\u3002\u672c\u4e66\u5171\u5206\u4e09\u90e8\u5206\uff1a\u7b2c\u4e00\u90e8\u5206\uff08\u8f6f\u4ef6\u5de5\u7a0b\u57fa\u7840\uff09\u8ba8\u8bba\u5728\u8f6f\u4ef6\u5de5\u7a0b\u4f53\u7cfb\u4e0b\u7684\u8f6f\u4ef6\u5f00\u53d1\u6846\u67b6\u548c\u9879\u76ee\u6784\u5efa\uff1b\u7b2c\u4e8c\u90e8\u5206\uff08\u8f6f\u4ef6\u5de5\u7a0b\u5b9e\u8df5\uff09\u901a\u8fc7\u516d\u9879\u6280\u672f\u60ef\u4f8b\u4f20\u8fbe\u4e00\u79cd\u7406\u5ff5\u2014\u2014\u5229\u7528\u8ba1\u7b97\u6280\u672f\uff0c\u5e94\u7528\u79d1\u5b66\u539f\u5219\u4ee5\u53ca\u6fc0\u6d3b\u8bbe\u8ba1\u8f6f\u4ef6\u4ea7\u54c1\u7ed3\u6784\u7684\u7075\u6d3b\u6027\uff1b\u7b2c\u4e09\u90e8\u5206\uff08\u8f6f\u4ef6\u5de5\u7a0b\u5e94\u7528\u7684\u9636\u6bb5\uff09\u8ba8\u8bba\u8f6f\u4ef6\u5de5\u7a0b\u56e2\u961f\u5728\u8f6f\u4ef6\u5f00\u53d1\u9879\u76ee\u4e2d\u627f\u62c5\u7684\u89d2\u8272\uff0c\u4ee5\u4fbf\u5efa\u7acb\u548c\u63a7\u5236\u8f6f\u4ef6\u4ea7\u54c1\u67b6\u6784\u3002\u672c\u4e66\u9002\u5408\u4f5c\u4e3a\u9ad8\u7b49\u9662\u6821\u8f6f\u4ef6\u5de5\u7a0b\u53ca\u76f8\u5173\u8bfe\u7a0b\u7684\u6559\u6750\uff0c\u4e5f\u53ef\u4f5c\u4e3a\u8f6f\u4ef6\u5f00\u53d1\u4eba\u5458\u548c\u8f6f\u4ef6\u6280\u672f\u4eba\u5458\u7684\u53c2\u8003\u4e66\u3002","kindleAvailable":false,"sendToEmailAvailable":false,"interestScore":"4.0","qualityScore":"5.0","dl":"\/dl\/5693344\/753fa8","_isUserSavedBook":false}},{"id":10993045,"readlist_id":165858,"book_id":4984413,"description":null,"deleted":0,"date":{"date":"2021-11-16 07:47:59.000000","timezone_type":3,"timezone":"Europe\/Moscow"},"book":{"id":4984413,"title":"\u4fe1\u606f\u68c0\u7d22\uff1a\u5b9e\u73b0\u548c\u8bc4\u4ef7\u641c\u7d22\u5f15\u64ce","author":"Stefan B\u00fcttcher; Charles L.A.Clarke; Gordon V. Cormack","volume":"","year":2012,"edition":"","publisher":"\u673a\u68b0\u5de5\u4e1a\u51fa\u7248\u793e","identifier":"9787111359906,7111359909","language":"chinese","extension":"pdf","pages":0,"filesize":46212213,"series":"\u8ba1\u7b97\u673a\u79d1\u5b66\u4e1b\u4e66","cover":"https:\/\/lib-pyvfleov2hccwdvgm2zstlsm.booksc.eu\/covers299\/books\/dd\/bf\/b3\/ddbfb385da545073b5d16dd6ff07a6fc.jpg","terms_hash":"","active":1,"filesizeString":"44.07 MB","href":"\/book\/4984413\/252ec8","hash":"252ec8","description":"\u201c\u8fd9\u672c\u4e66\u662f\u8d8a\u6765\u8d8a\u591a\u7684\u4fe1\u606f\u68c0\u7d22\u6587\u732e\u91cc\u7684\u4e00\u672c\u597d\u4e66\u201d<br>\u2014\u2014Donald H. Kraft\uff0c\u8ba1\u7b97\u673a\u8bc4\u8bba<br>\u201c\u5b66\u672f\u5de8\u5320\u9f50\u805a\u4e00\u5802\u7f16\u64b0\u4e86\u4e00\u90e8\u4fe1\u606f\u68c0\u7d22\u7684\u4f18\u79c0\u6559\u6750\u3002Stefan Bu \u0308ttcher\u3001Charles Clarke\u548cGordon Cormack\u4ee5\u5408\u8ba1\u8d85\u8fc7\u4e94\u5341\u5e74\u7684\u7814\u7a76\u7ecf\u9a8c\uff0c\u7ec4\u6210\u4e86\u6a2a\u8de8\u4e09\u4ee3\u7684\u4fe1\u606f\u68c0\u7d22\u7814\u7a76\u6cf0\u6597\u7ec4\u5408\u2026\u2026\u8fd9\u672c\u4e66\u662f\u6240\u6709\u4fe1\u606f\u68c0\u7d22\u7814\u7a76\u8005\u548c\u4ece\u4e1a\u4eba\u5458\u7684\u5fc5\u8bfb\u6559\u6750\uff01\u201d<br>\u2014\u2014\u6765\u81ea\u7531Amit Singhal\u64b0\u5199\u7684\u5e8f\u8a00<br>\u4fe1\u606f\u68c0\u7d22\u5960\u5b9a\u4e86\u73b0\u4ee3\u641c\u7d22\u5f15\u64ce\u7684\u57fa\u77f3\u3002\u672c\u4e66\u4ecb\u7ecd\u4e86\u73b0\u4ee3\u641c\u7d22\u6280\u672f\u7684\u6838\u5fc3\u4e3b\u9898\uff0c\u5305\u62ec\u4e86\u7b97\u6cd5\u3001\u6570\u636e\u7ed3\u6784\u3001\u7d22\u5f15\u3001\u68c0\u7d22\u548c\u8bc4\u4ef7\u3002\u91cd\u70b9\u5728\u4e8e\u5b9e\u73b0\u548c\u5b9e\u9a8c\uff1b\u6bcf\u4e00\u7ae0\u90fd\u6709\u7ec3\u4e60\u548c\u5bf9\u5b66\u751f\u9879\u76ee\u7684\u5efa\u8bae\u3002Wumpus\u2014\u2014\u672c\u4e66\u5176\u4e2d\u4e00\u4f4d\u4f5c\u8005\u5f00\u53d1\u7684\u4e00\u4e2a\u591a\u7528\u6237\u5f00\u6e90\u4fe1\u606f\u68c0\u7d22\u7cfb\u7edf\uff0c\u53ef\u4ee5\u5728\u7f51\u4e0a\u4e0b\u8f7d\u2014\u2014\u63d0\u4f9b\u4e86\u6a21\u578b\u5b9e\u73b0\uff0c\u53ef\u4f5c\u4e3a\u5b66\u751f\u7ec3\u4e60\u7684\u4e00\u4e2a\u57fa\u7840\u3002\u672c\u4e66\u91c7\u7528\u7684\u6a21\u5757\u5316\u7ed3\u6784\u4f7f\u6559\u5e08\u53ef\u4ee5\u5c06\u6b64\u4e66\u7528\u4e8e\u4e0d\u540c\u6c34\u5e73\u7684\u7814\u7a76\u751f\u8bfe\u7a0b\u4e2d\uff0c\u5305\u62ec\u4ece\u6570\u636e\u5e93\u7cfb\u7edf\u89d2\u5ea6\u6559\u6388\u7684\u8bfe\u7a0b\u3001\u4e13\u6ce8\u4e8e\u7406\u8bba\u7684\u4f20\u7edf\u4fe1\u606f\u68c0\u7d22\u8bfe\u7a0b\u548c\u5173\u4e8eWeb\u68c0\u7d22\u57fa\u7840\u7684\u8bfe\u7a0b\u3002<br>\u5bf9\u4fe1\u606f\u68c0\u7d22\u7684\u57fa\u7840\u8fdb\u884c\u4ecb\u7ecd\u4e4b\u540e\uff0c\u672c\u4e66\u5206\u522b\u5728\u76f8\u5e94\u7684\u90e8\u5206\u4ecb\u7ecd\u4e863\u4e2a\u91cd\u8981\u4e3b\u9898\u2014\u2014\u7d22\u5f15\u3001\u68c0\u7d22\u548c\u8bc4\u4ef7\u3002\u672c\u4e66\u7684\u6700\u540e\u4e00\u90e8\u5206\u501f\u7528\u5e76\u6269\u5c55\u4e86\u524d\u9762\u90e8\u5206\u7684\u57fa\u672c\u5185\u5bb9\uff0c\u8003\u8651\u4e86\u4ee5\u4e0b\u5177\u4f53\u5e94\u7528\uff1a\u5e76\u884c\u641c\u7d22\u5f15\u64ce\u3001Web\u641c\u7d22\u548cXML\u68c0\u7d22\u3002\u6bcf\u7ae0\u672b\u5c3e\u7684\u53c2\u8003\u6587\u732e\u7ed9\u51fa\u4e86\u5ef6\u4f38\u9605\u8bfb\uff1b\u7ec3\u4e60\u5305\u62ec\u7eb8\u7b14\u7ec3\u4e60\u9898\u548c\u91cd\u5927\u7f16\u7a0b\u9879\u76ee\u3002\u9664\u4e86\u7528\u4e8e\u8bfe\u5802\u6559\u5b66\uff0c\u672c\u4e66\u5bf9\u8ba1\u7b97\u673a\u79d1\u5b66\u3001\u8ba1\u7b97\u673a\u5de5\u7a0b\u548c\u8f6f\u4ef6\u5de5\u7a0b\u7684\u4e13\u4e1a\u4eba\u5458\u6765\u8bf4\u4e5f\u5177\u6709\u5f88\u597d\u7684\u53c2\u8003\u4ef7\u503c\u3002","kindleAvailable":false,"sendToEmailAvailable":false,"interestScore":"0","qualityScore":"0","dl":"\/dl\/4984413\/29aedb","_isUserSavedBook":false}},{"id":10993046,"readlist_id":165858,"book_id":5668771,"description":null,"deleted":0,"date":{"date":"2021-11-16 07:48:04.000000","timezone_type":3,"timezone":"Europe\/Moscow"},"book":{"id":5668771,"title":"\u673a\u5668\u5b66\u4e60\u57fa\u7840\u6559\u7a0b: A First Course in Machine Learning","author":"\uff08\u82f1\uff09Simon Rogers,; Mark Girolami","volume":"","year":2014,"edition":"","publisher":"\u673a\u68b0\u5de5\u4e1a\u51fa\u7248\u793e","identifier":"9787111407027,7111407024","language":"chinese","extension":"pdf","pages":190,"filesize":95510061,"series":"\u8ba1\u7b97\u673a\u79d1\u5b66\u4e1b\u4e66","cover":"https:\/\/lib-pyvfleov2hccwdvgm2zstlsm.booksc.eu\/covers299\/books\/55\/9a\/19\/559a1939e1ef22c5f6566dd886576dbd.jpg","terms_hash":"","active":1,"filesizeString":"91.09 MB","href":"\/book\/5668771\/b5f4ff","hash":"b5f4ff","description":"\u4e66\u7b7e\u5df2\u88c5\u8f7d\uff0c<br>\u4e66\u7b7e\u5236\u4f5c\u65b9\u6cd5\u8bf7\u627e yjyouaremysunshine@163.com<br>\u5b8c\u5168\u514d\u8d39<br>\u672c\u4e66\u662f\u4e00\u672c\u673a\u5668\u5b66\u4e60\u5165\u95e8\u6559\u7a0b\uff0c\u5305\u542b\u4e86\u6570\u5b66\u548c\u7edf\u8ba1\u5b66\u7684\u6838\u5fc3\u6280\u672f\uff0c\u7528\u4e8e\u5e2e\u52a9\u7406\u89e3\u4e00\u4e9b\u5e38\u7528\u7684\u673a\u5668\u5b66\u4e60\u7b97\u6cd5\u3002\u4e66\u4e2d\u5c55\u793a\u7684\u7b97\u6cd5\u6db5\u76d6\u4e86\u673a\u5668\u5b66\u4e60\u7684\u5404\u4e2a\u91cd\u8981\u9886\u57df\uff1a\u5206\u7c7b\u3001\u805a\u7c7b\u548c\u6295\u5f71\u3002\u672c\u4e66\u5bf9\u4e00\u5c0f\u90e8\u5206\u7b97\u6cd5\u8fdb\u884c\u4e86\u8be6\u7ec6\u63cf\u8ff0\u548c\u63a8\u5bfc\uff0c\u800c\u4e0d\u662f\u7b80\u5355\u5730\u5c06\u5927\u91cf\u7b97\u6cd5\u7f57\u5217\u51fa\u6765\u3002<br>\u672c\u4e66\u901a\u8fc7\u5927\u91cf\u7684MATLAB\/Octave\u811a\u672c\u5c06\u7b97\u6cd5\u548c\u6982\u5ff5\u7531\u62bd\u8c61\u7684\u7b49\u5f0f\u8f6c\u5316\u4e3a\u89e3\u51b3\u5b9e\u9645\u95ee\u9898\u7684\u5de5\u5177\uff0c\u5229\u7528\u5b83\u4eec\u8bfb\u8005\u53ef\u4ee5\u91cd\u65b0\u7ed8\u5236\u4e66\u4e2d\u7684\u63d2\u56fe\uff0c\u5e76\u7814\u7a76\u5982\u4f55\u6539\u53d8\u6a21\u578b\u8bf4\u660e\u548c\u53c2\u6570\u53d6\u503c\u3002<br>\u672c\u4e66\u7279\u8272<br>\u4ecb\u7ecd\u673a\u5668\u5b66\u4e60\u6280\u672f\u53ca\u5e94\u7528\u7684\u4e3b\u8981\u7b97\u6cd5\u548c\u601d\u60f3\u3002<br>\u4e3a\u8bfb\u8005\u8fdb\u4e00\u6b65\u63a2\u7d22\u673a\u5668\u5b66\u4e60\u9886\u57df\u4e2d\u7684\u7279\u5b9a\u65b9\u5411\u63d0\u4f9b\u8d77\u70b9\u3002<br>\u4e0d\u9700\u8981\u592a\u591a\u7684\u6570\u5b66\u77e5\u8bc6\uff0c\u7a7f\u63d2\u5728\u6587\u4e2d\u7684\u6ce8\u89e3\u6846\u63d0\u4f9b\u76f8\u5e94\u7684\u6570\u5b66\u89e3\u91ca\u3002<br>\u6bcf\u7ae0\u672b\u5747\u5305\u542b\u7ec3\u4e60\u3002","kindleAvailable":false,"sendToEmailAvailable":false,"interestScore":"5.0","qualityScore":"4.5","dl":"\/dl\/5668771\/05edad","_isUserSavedBook":false}},{"id":10993056,"readlist_id":165858,"book_id":5667638,"description":null,"deleted":0,"date":{"date":"2021-11-16 07:48:53.000000","timezone_type":3,"timezone":"Europe\/Moscow"},"book":{"id":5667638,"title":"\u8ba1\u7b97\u673a\u7ec4\u6210\u4e0e\u5d4c\u5165\u5f0f\u7cfb\u7edf\uff08\u539f\u4e66\u7b2c6\u7248\uff09","author":"\uff08\u52a0\uff09 Carl Hamacher; Zvonko Vranesic; Naraig Manjikian","volume":"","year":2013,"edition":"","publisher":"\u673a\u68b0\u5de5\u4e1a\u51fa\u7248\u793e","identifier":"9787111438656,7111438655","language":"chinese","extension":"pdf","pages":0,"filesize":247438256,"series":"\u8ba1\u7b97\u673a\u79d1\u5b66\u4e1b\u4e66","cover":"https:\/\/lib-pyvfleov2hccwdvgm2zstlsm.booksc.eu\/covers299\/books\/3a\/b6\/d1\/3ab6d1eb7e15c2c91266bc6932bb17a4.jpg","terms_hash":"","active":1,"filesizeString":"235.98 MB","href":"\/book\/5667638\/01a812","hash":"01a812","description":"\u4e66\u7b7e\u5df2\u88c5\u8f7d\uff0c<br>\u4e66\u7b7e\u5236\u4f5c\u65b9\u6cd5\u8bf7\u627e yjyouaremysunshine@163.com<br>\u5b8c\u5168\u514d\u8d39<br>\u672c\u4e66\u662f\u4e00\u672c\u7ecf\u5178\u7684\u8ba1\u7b97\u673a\u7ec4\u6210\u6559\u6750\uff0c\u81ea1978\u5e74\u95ee\u4e16\u4ee5\u6765\uff0c\u5df2\u88ab\u591a\u6240\u4e16\u754c\u77e5\u540d\u5927\u5b66\u9009\u4e3a\u6559\u6750\u3002\u672c\u4e66\u77e5\u8bc6\u7ed3\u6784\u5408\u7406\uff0c\u77e5\u8bc6\u70b9\u5168\u9762\u5b8c\u6574\uff0c\u57fa\u672c\u6982\u5ff5\u5e7f\u6cdb\u800c\u65b0\u9896\u3002\u4e66\u4e2d\u4e0d\u4ec5\u4ecb\u7ecd\u4e86\u786c\u4ef6\u8bbe\u8ba1\u7684\u539f\u7406\uff0c\u8bf4\u660e\u4e86\u786c\u4ef6\u8bbe\u8ba1\u5982\u4f55\u53d7\u8f6f\u4ef6\u9700\u6c42\u5f71\u54cd\uff0c\u800c\u4e14\u4ee5\u6d41\u884c\u7684\u5546\u7528\u5904\u7406\u5668\u4f5c\u4e3a\u8303\u4f8b\uff0c\u63cf\u8ff0\u4e86\u5404\u79cd\u57fa\u672c\u77e5\u8bc6\u548c\u57fa\u672c\u6982\u5ff5\u7684\u5e94\u7528\u65b9\u6cd5\u548c\u5e94\u7528\u8fc7\u7a0b\uff0c\u5177\u6709\u5f88\u5f3a\u7684\u5b9e\u7528\u6027\u3002\u6b64\u5916\uff0c\u672c\u4e66\u8fd8\u6db5\u76d6\u4e86\u5f53\u4eca\u8bb8\u591a\u5148\u8fdb\u7684\u6280\u672f\u548c\u8bbe\u8ba1\u601d\u60f3\u3002<br>\u672c\u4e66\u7279\u8272<br>\u7cfb\u7edf\u5730\u4ecb\u7ecd\u4e86\u73b0\u4ee3\u8ba1\u7b97\u673a\u786c\u4ef6\u7cfb\u7edf\u7684\u5404\u4e2a\u7ec4\u6210\u90e8\u5206\uff0c\u5305\u62ec\u5904\u7406\u5668\u3001\u8f93\u5165\/\u8f93\u51fa\u3001\u5b58\u50a8\u5668\u548c\u4e92\u8fde\u6807\u51c6\u7b49\u3002<br>\u4ee5Nios II\u3001ARM\u3001ColdFire\u548cIntel IA-32\u7b49\u5546\u7528\u5904\u7406\u5668\u4e3a\u4f8b\u6765\u9610\u91ca\u57fa\u672c\u6982\u5ff5\uff0c\u4fa7\u91cd\u4e8e\u8ba8\u8bbaRISC\u8bbe\u8ba1\u98ce\u683c\u7684\u5904\u7406\u5668\uff08\u5982MIPS\uff09\uff0c\u540c\u65f6\u4e5f\u4ecb\u7ecd\u4e86CISC\u8bbe\u8ba1\u98ce\u683c\u7684\u5904\u7406\u5668\uff08\u5982\u5e94\u7528\u6bd4\u8f83\u5e7f\u6cdb\u7684\u5546\u7528\u5904\u7406\u5668Intel IA-32\uff09\u3002","kindleAvailable":false,"sendToEmailAvailable":false,"interestScore":"5.0","qualityScore":"5.0","dl":"\/dl\/5667638\/c0fc62","_isUserSavedBook":false}}])
+    const addbookItems = new ZLibraryModelList()
+    const addbookFormModal = new ZLibraryModal({
+        title: '添加书籍',
+        container: 'zlibrary-modal-styled',
+        element: 'addbookForm',
+        width: 800,
+    })
+
+    const gratitudes_form = $('#gratitudes_form')
+    const notification = $('#gratitudes_form').find('.Toastify')
+
+    $('#gratitudes_form').remove()
+
+    const viewbookModal = new ZLibraryModal({
+        container: 'zlibrary-modal-styled',
+        title: '&nbsp;',
+        template: viewbookTemplate,
+        width: 900,
+        afterRender: function () {
+            const book = this.templateData.book
+            const bookRatingInstance = new BookRating(CurrentUser)
+            const $bookRatingBtn = $('.book-rating-detail .book-rating')
+
+            bookRatingInstance.initTooltip($bookRatingBtn)
+            bookRatingInstance.checkExistsScoreForBook(book.id, book.terms_hash, function (hasScore) {
+                if (hasScore) {
+                    $bookRatingBtn.addClass('book-appreciated')
+                }
+            })
+
+            userBookmarksInstance.initTooltips()
+            userBookmarksInstance.paintOverBookmarkIcons()
+
+            $('.viewbook-container .z-book-cover, .viewbook-container .z-book-none-cover').each(function () {
+                if ($(this).hasClass('z-book-cover')) {
+                    makeBookCover($(this))
+                } else {
+                    makeBookWithoutCover($(this))
+                }
+            })
+
+            if (isBookDownloaded(book.id)) {
+                $(`.viewbook-container .cover-container[data-book_id="${book.id}"]`)
+                    .addClass('bookDownloaded').append('<span class="mark">' + i18next.t('Downloaded') + '</span>')
+            } else {
+                $('.js-gratitude-icon').attr('data-original-title', 'To say "Thank you" to our contributors, download the book first');
+                $('.js-gratitude-icon').addClass('_disabled')
+            }
+
+            $('#modalDownloadBook').click((event) => {
+                window.location.href = $(event.target).data('download_location')
+                CurrentUser.addDownloadedBook(book.id)
+            })
+
+            $('#gratitudes_form_wrapper').html(gratitudes_form)
+            $('body').append(notification)
+
+            $('.icon-gratitude').on('click', function (event) {
+                $(this).tooltip('disable');
+                $(this).tooltip('hide');
+
+                $('.booklists-container, .save-for-later-container').hide();
+
+                event.stopPropagation();
+            })
+
+            $(window).click(function() {
+                $('.icon-gratitude').tooltip('enable')
+            });
+
+            $('#modalDownloadBook').on('click', function() {
+                const isGratitudesTooltipShown = localStorage.getItem('isGratitudesTooltipShown')
+                if (!isGratitudesTooltipShown) $('.icon-gratitude').tooltip('show')
+                $('.js-gratitude-icon').attr('data-original-title', '<span>Say “Thank you!”<br /> to our contributors for the book</span>')
+                $('.js-gratitude-icon._disabled *').off('click')
+                $('.js-gratitude-icon').removeClass('_disabled')
+                const timeout = setTimeout(() => {
+                    $('.icon-gratitude').tooltip('hide')
+                    clearTimeout(timeout)
+                }, 3000);
+            })
+
+            $('.js-gratitude-icon._disabled *').on('click', (e) => {
+                e.stopPropagation();
+            })
+        }
+    })
+    const readlistForm = new ZLibraryModal({
+        container: 'zlibrary-modal-styled',
+        element: 'readlistForm'
+    })
+
+    // Fix not working text inputs in bookmarks
+    $('#zlibrary-modal-styled').removeAttr('tabindex')
+
+    $('#zlibrary-modal-styled .modal-body').on('scroll', function () {
+        $(document).trigger('scrollModalContent', {element: $(this)})
+    })
+
+    $('#bookItemsContainer').html(bookItemsTemplate({
+        bookItems: bookItems.getAll(),
+    }))
+
+    // Bookmarks
+    const userBookmarksInstance = new UserBookmarks(CurrentUser.id)
+    userBookmarksInstance.init({page: 'booklistModal'})
+
+    // Инициализация masonry
+    const $grid = $('.readlist-books').masonry({
+        itemSelector: '.item',
+        visibleStyle: { transform: 'translateY(0)', opacity: 1 },
+        hiddenStyle: { transform: 'translateY(100px)', opacity: 0 },
+        gutter: 20,
+        fitWidth: true,
+    })
+
+    $grid.on('layoutComplete', function () {
+        $(this).find('.z-book-cover:not(.covered)').each(function () {
+            makeBookCover($(this))
+        })
+        $(this).find('.z-book-none-cover:not(.covered)').each(function () {
+            makeBookWithoutCover($(this))
+        })
+    })
+
+    // Отобразить попап с информацией о книге (viewbook)
+    $(document).on('click', '.btn-viewbook-open', function() {
+        const item = bookItems.get($(this).parents('.item').data('id'))
+        viewbookModal
+            .templateData(item)
+            .show()
+    })
+
+    // Закрыть попап с информацией о книге (viewbook)
+    $(document).on('click', '.btn-viewbook-close', function() {
+        viewbookModal.hide()
+    })
+
+    // Add to favorites
+    $(document).on('click', '.btn-save-for-latter', function() {
+        const id = $(this).parents('.viewbook').data('readlist_books_id')
+        const item = bookItems.get(id)
+
+        const $btn = $(this)
+        const successCallback = function(response) {
+            $btn.find('span').toggleClass('hidden')
+        }
+
+        if (item.book._isUserSavedBook) {
+            CurrentUser.deleteReadLater(item.book.id, successCallback, $btn)
+        } else {
+            CurrentUser.saveReadLater(item.book.id, successCallback, $btn)
+        }
+
+        item.book._isUserSavedBook = !item.book._isUserSavedBook
+    })
+
+    // Отобразить попап "Add book"
+    $(document).on('click', '.readlist-create', function() {
+        $('.addbook-list-container').html('')
+        $('.addbook-message').removeClass('hidden')
+        $('.addbook-message-not-found').addClass('hidden')
+
+        addbookFormModal.show()
+    })
+
+    // Поиск книг в "Add book"
+    $(document).on('click', '.btn-addbook-search', function() {
+        const formData = new FormData()
+        formData.append('message', $(this).parents('.input-addbook-title-container').find('.input-addbook-title').val())
+        formData.append('withBooklistAdded', CurrentReadlist.id)
+        $('.addbook-message-not-found').addClass('hidden')
+
+        const request = new Request('/eapi/book/search', {
+            method: 'POST',
+            body: formData
+        })
+        new ZLibraryResponse(request)
+            .success(function(json) {
+                addbookItems.clear()
+                addbookItems.push(json.books)
+
+                if ($.isEmptyObject(json.books) || json.books.length === 0) {
+                    $('.addbook-message-not-found').removeClass('hidden')
+                }
+
+                $('.addbook-list-container').html(addbookTemplate({books: addbookItems.getAll()}))
+                $('.addbook-message').addClass('hidden')
+            })
+            .fetch()
+    })
+
+    // Обработка enter в форме поиска книг
+    $(document).on('keyup', '.input-addbook-title', function(e) {
+        if (e.keyCode === 13) {
+            $('#zlibrary-modal-styled .btn-addbook-search').click()
+        }
+    })
+
+    // Добавить книгу в readlist
+    $(document).on('click', '.btn-addbook-book-add', function() {
+        const $container = $(this).parents('.addbook-item')
+        const bookId = $(this).data('book_id')
+
+        new UserBookmarks(CurrentUser.id).addBookToBooklist({
+            bookId: bookId,
+            booklistId: 165858,
+            successCallback: function (json) {
+                const html = bookTemplate(json.book)
+                const $item = $(html)
+                $item.imagesLoaded(() => $grid.prepend($item).masonry('prepended', $item))
+                bookItems.push(json.book)
+                $container.find('.btn-addbook-book-add').addClass('hidden')
+                $container.find('.btn-addbook-book-delete').removeClass('hidden')
+            }
+        })
+    })
+
+    // Удалить книгу из readlist в модальном окне addbook
+    $(document).on('click', '.btn-addbook-book-delete', function() {
+        const id = $(this).data('readlist_book_id')
+        const bookId = $(this).data('book_id')
+        const $container = $(this).parents('.addbook-item')
+
+        new UserBookmarks(CurrentUser.id).deleteBookFromBooklist({
+            bookId: bookId,
+            booklistId: 165858,
+            readlistBookId: id,
+            successCallback: function () {
+                bookItems.remove(id)
+                $grid.masonry('remove', $('#book_' + id))
+                    .masonry('layout')
+                $container.find('.btn-addbook-book-add').removeClass('hidden')
+                $container.find('.btn-addbook-book-delete').addClass('hidden')
+            },
+        })
+    })
+
+    // Удалить книгу из readlist
+    $(document).on('click', '.btn-book-delete', function() {
+        const id = $(this).parents('.item').data('id')
+        const bookId = $(this).parents('.item').data('book_id')
+        const $img = $(this).find('img')
+        $img.addClass('hidden')
+        new UserBookmarks(CurrentUser.id).deleteBookFromBooklist({
+            bookId: bookId,
+            booklistId: 165858,
+            readlistBookId: id,
+            successCallback: function () {
+                bookItems.remove(id)
+                $grid.masonry('remove', $('#book_' + id))
+                    .masonry('layout')
+            },
+            errorCallback: function () {
+                $img.removeClass('hidden')
+            }
+        })
+    })
+
+    // Редактировать описание книги в readlist
+    $(document).on('click', '.btn-edit-book-description', function() {
+        const $container = $(this).parents('.item')
+        $container.css('z-index', 1)
+        $container.find('.btn-edit-book-description').addClass('hidden')
+        $container.find('.btn-save-book-description').removeClass('hidden')
+        $container.find('.description-input')
+            .attr('contenteditable', 'true')
+            .css('min-height', '24px')
+            .removeClass('hidden')
+            .focus()
+    })
+
+    // Редактировать описание книги в readlist
+    $(document).on('keydown', '.description-input', function(e) {
+        if (e.keyCode == 13) {
+            e.preventDefault()
+            $(this).parents('.description').find('.btn-save-book-description').click()
+        }
+    })
+
+    // Сохранить описание книги в readlist
+    $(document).on('click', '.btn-save-book-description', function() {
+        const $container = $(this).parents('.item')
+        const id = $container.data('id')
+        const description = $container.find('.description-input').text()
+        const queryString = window.proxy ? `?` + (new URLSearchParams({description: description}).toString()) : ""
+
+        new ZLibraryResponse('/papi/booklist/165858/save-description/' + id + queryString, {description: description})
+            .spinner(this)
+            .success(function(json) {
+                // хак, заменяем внутреннее содержимое в item контейнере
+                $('#book_' + json.book.id).html($(bookTemplate(json.book)).html())
+                $grid.masonry('layout')
+                bookItems.push(json.book)
+                $container.css('z-index', '')
+            })
+            .fetch()
+    })
+
+    // Открыть редактирование инфо readlist
+    $('.btnReadlistEdit').click(function() {
+        $('.readlist-form-closed').addClass('hidden')
+        $('.readlist-form-opened').removeClass('hidden')
+        $('#input-readlist-title').focus()
+    })
+
+    // фиксируем кнопку Add book в masonry
+    $grid.masonry('stamp', $grid.find('.stamp'))
+    $grid.masonry('layout')
+
+    // Обработчики для masonry
+    $grid.imagesLoaded().progress(() => $grid.masonry('layout'))
+
+    // При клике на Show more подгружаем книги
+    var loadCount = 0
+    $('#show_more').on('click', function () {
+        $.get( '/papi/booklist/165858/get-books/' + (loadCount + 2), function( data ) {
+            if (!data.pagination.next) {
+                $('.page-load-more').hide();
+                $('.readlist-view').removeClass('_no-border-radius');
+            }
+            if (data.success && !!data.books.length) {
+                loadCount += 1
+
+                const html = bookItemsTemplate({bookItems: data.books})
+                const $items = $(html)
+                bookItems.push(data.books)
+
+                $grid.infiniteScroll('appendItems', $items).masonry('appended', $items);
+                $('.stamp').last().remove()
+                $items.imagesLoaded().progress(() => $grid.masonry('layout'))
+
+                // remove 'check-' class to prevent difficulty accumulation over each new fetching.
+                CurrentUser.markDownloadedBooks().then(() => $('.checkBookDownloaded').removeClass('checkBookDownloaded'))
+            }
+        });
+    })
+
+       $grid.infiniteScroll({
+        path: function() {
+            if (this.loadCount < 15) {
+                return '/papi/booklist/165858/get-books/' + (this.loadCount + 2)
+            }
+        },
+        outlayer: $grid.data('masonry'),
+        history: false,
+        responseType: 'text',
+        horizontalOrder: true,
+    })
+     
+    // Отобразить форму редактирования readlist
+    $(document).on('click', '.btn-readlist-edit', function() {
+        readlistForm
+            .title('编辑书选')
+            .formData({
+                title: CurrentReadlist.title,
+                description: CurrentReadlist.description,
+                private: CurrentReadlist.public == 0 ? true : false,
+            })
+            .show()
+
+        setTimeout(function () {
+            $('textarea[name="description"]').trigger('input');
+        }, 0);
+    })
+
+    // Удалить readlist
+    $(document).on('click', '.btn-readlist-delete', function() {
+        new ZLibraryConfirm(
+            i18next.t('Are you sure you want to delete the booklist «{{booklistTitle}}»?', {booklistTitle: CurrentReadlist.title}),
+            '我们将无法恢复你的收藏',
+            '删除'
+        ).positive(() => {
+            new UserBookmarks(CurrentUser.id).deleteBooklist({
+                booklistId: 165858,
+                successCallback: function () {
+                    window.location.href = '/booklists/my'
+                }
+            })
+        }).show()
+    })
+
+    // Сделать публичным / приватным
+    $(document).on('click', '.btn-readlist-public', function() {
+        const public = $(this).data('make') == 'public'
+        new UserBookmarks(CurrentUser.id).publicBooklist({
+            booklistId: 165858,
+            successCallback: function (json) {
+                if (public) {
+                    $('.btn-readlist-public[data-make="public"]').addClass('hidden')
+                    $('.btn-readlist-public[data-make="private"]').removeClass('hidden')
+                    $('#readlist-private').addClass('hidden')
+                    ZLibraryNotify().info(i18next.t('The booklist «{{booklistTitle}}» has become public. You can change it in the settings of your booklist', {booklistTitle: CurrentReadlist.title}))
+                } else {
+                    $('.btn-readlist-public[data-make="public"]').removeClass('hidden')
+                    $('.btn-readlist-public[data-make="private"]').addClass('hidden')
+                    $('#readlist-private').removeClass('hidden')
+                    ZLibraryNotify().info(i18next.t('The booklist «{{booklistTitle}}» has become private. You can change it in the settings of your booklist', {booklistTitle: CurrentReadlist.title}))
+                }
+            }
+        })
+    })
+
+    // Сохранить readlist
+    $(document).on('submit', '.readlistForm', function(e) {
+        e.preventDefault()
+
+        const $form = $(this)
+        if (!$form.find('[name="title"]').val()) {
+            ZLibraryNotify().error('标题栏为必填项')
+            return false
+        }
+        const queryString = window.proxy ? `?`+$(this).serialize() : ""
+
+        new ZLibraryResponse($form.attr('action') + queryString, $form.serializeObject())
+            .spinner($form.find('button'))
+            .success(response => {
+                readlistForm.hide()
+                CurrentReadlist.title = response.readlist.title
+                CurrentReadlist.description = response.readlist.description
+                CurrentReadlist.public = response.readlist.public
+
+                $('#readlist-title').text(CurrentReadlist.title)
+                $('#readlist-description').text(CurrentReadlist.description)
+                if (CurrentReadlist.public) {
+                    $('#readlist-private').addClass('hidden')
+                    $('.btn-readlist-public[data-make="public"]').addClass('hidden')
+                    $('.btn-readlist-public[data-make="private"]').removeClass('hidden')
+                } else {
+                    $('.btn-readlist-public[data-make="public"]').removeClass('hidden')
+                    $('.btn-readlist-public[data-make="private"]').addClass('hidden')
+                    $('#readlist-private').removeClass('hidden')
+                }
+            })
+            .fetch()
+    })
+
+    const $readlistMenu = $('#readlist-menu')
+    $('#btn-open-readlist-menu').click(function(e) {
+        $readlistMenu.toggleClass('hidden')
+    })
+    $(document).mouseup(function(e) {
+        if ($(e.target).attr('id') != 'btn-open-readlist-menu') {
+            $readlistMenu.addClass('hidden')
+        }
+    })
+
+    $('.btnCopyLink').click(function(event) {
+        $('#readlistLink').focus().select()
+
+        try {
+            document.execCommand('copy')
+            ZLibraryNotify().info('链接已复制到剪贴板')
+        } catch (err) {
+            ZLibraryNotify().error('糟糕，复制的时候出错了')
+        }
+    })
+
+
+    $(document).on('click', '.favorite-readlist', function () {
+        const $that = $(this)
+        if ($that.hasClass('disabled')) {
+            return
+        }
+
+        if (!CurrentUser.id) {
+            CurrentUser.showAuthPopup('login', i18next.t('After authorization, you will be able to save booklists using the «Add to Favorites» option'))
+            return
+        }
+
+        $that.addClass('disabled')
+
+        const readlistId = 165858;
+        const method = $that.hasClass('active') ? 'DELETE' : 'POST'
+
+        $that.toggleClass('active')
+
+        CurrentUser.updateFavoriteReadlists(method, readlistId, function () {
+            $that.removeClass('disabled')
+        }, function () {
+            $that.removeClass('disabled')
+            $that.toggleClass('active')
+        })
+    });
+
+    
+    // init tooltips
+    (() => {
+        const $tooltipBearers = $('[data-tooltip]:not([data-tooltip="booklist-creator"])')
+
+        const tooltipOptions = {
+            container: 'body',
+            placement: 'bottom',
+        }
+
+        const isMobile = isTouchDevice()
+
+        if (isMobile) {
+            tooltipOptions.viewport = '.readlist-info'
+        }
+
+        $tooltipBearers.tooltip(tooltipOptions)
+
+        if (isMobile) {
+            $tooltipBearers.filter((_, element) => {
+                return $(element).hasClass('favorite-readlist') || $(element).find('a').length !== 0
+            }).tooltip('disable')
+        } else {
+            // special processing for creator name tooltip.
+            const $creatorField = $('[data-tooltip="booklist-creator"]')
+            const isTextOverflowed = $creatorField[0].scrollWidth > $creatorField.innerWidth()
+
+            $creatorField.tooltip({
+                ...tooltipOptions,
+                title: isTextOverflowed
+                    ? i18next.t('Booklist creator: {{booklistCreatorName}}', {booklistCreatorName: "Mastery"})
+                    : i18next.t('Booklist creator')
+            })
+        }
+    })()
+
+    $('.js-anchor').on('click', function(e) {
+        e.preventDefault();
+        const anchor = $(this).attr('href');
+        $(anchor)[0].scrollIntoView({
+            behavior: 'smooth',
+            block: 'start'})
+        })
+    })
+
+    function inputAddBookForm(el){
+        if (el.value) $('#zlibrary-modal-styled #addbookSearchReset').css('display', 'block');
+        else $('#zlibrary-modal-styled #addbookSearchReset').css('display', 'none');
+    }
+    function addbookSearchReset(){
+        $('#zlibrary-modal-styled #addbookSearchReset').css('display', 'none');
+        $('#zlibrary-modal-styled .input-addbook-title').val("");
+    }
+</script>
+
+<style type="text/css">
+    .z-content { padding: 5px 20px 20px;; }
+    .z-content h2 { font-size: 20px; margin-bottom: 14px; }
+    .z-content h2 img { vertical-align: middle; }
+    @media (max-width: 768px) {
+        .z-content { padding: 10px 20px; }
+        .container { width: auto !important; }
+        .readlist-books { margin: 0 auto; }
+    }
+    @media (max-width: 430px) {
+        .z-content { margin: 0 -15px; box-shadow: none; }
+        .container { width: auto !important; }
+        .readlist-books { margin: 0 auto; }
+    }
+
+    .readlist-title { overflow: hidden; }
+    .readlist-title .actions { display: none; }
+    .readlist-title:hover .actions { display: inline-block; }
+    .readlist-title .actions img { opacity: 0.7; margin-left: 12px; cursor: pointer; }
+    .readlist-title .actions img:hover { opacity: 1; }
+
+    .readlist-description { margin: 10px 20px 0px 0px; }
+
+    .readlist-button { opacity: 0.6; }
+    .readlist-button:hover { opacity: 1; }
+
+    .readlist-books .item {
+        float: left;
+        background: #f3f3f3;
+        border-radius: 8px;
+        font-size: 16px;
+        line-height: 22px;
+        font-weight: 500;
+        width: 160px;
+        border: 1px solid #eee;
+        margin-bottom: 10px;
+    }
+    @media screen and (min-width: 768px) {
+        .readlist-books .item  {
+            width: 200px;
+        }
+    }
+    .readlist-books .item .btn-viewbook-open { cursor: pointer; }
+    .readlist-books .item .item-info { padding: 10px 6px; border-radius: 0 0 8px 8px; }
+    .readlist-books .item .cover { width: 100%; border: 2px solid #eee; border-bottom: none; }
+    .readlist-books .item .cover-container { min-height: 200px; max-height: 300px; overflow: hidden; padding: 2px 2px 0; }
+    .readlist-books .item .cover-container.bookDownloaded { padding: unset }
+    .readlist-books .item .cover-container .z-book-none-cover { height: 280px; position: relative; }
+    .readlist-books .item .mark { font-weight: 400; pointer-events: none }
+
+    .readlist-books .item .title a { color: #434343; text-decoration: none; font-size: 14px; text-decoration: underline; }
+    .readlist-books .item .title a:hover { text-decoration: underline; }
+    .readlist-books .item .title .external-link-icon { margin-left: 2px; }
+
+    .readlist-books .item .author { font-size: 12px; color: #8c8c8c; margin-top: 12px; line-height: 1.5;}
+    .readlist-books .item .description {
+        padding-top: 12px;
+        border-top: 1px solid #90a5a8;
+        margin-top: 12px;
+        word-break: break-word;
+        font-weight: 400;
+        font-size: 14px;
+        overflow: hidden;
+    }
+    .readlist-books .item .description-input { display: inline-block; outline: none; }
+
+    .readlist-books .item .btn-edit-book-description { display: block; text-align: center; text-decoration: none; margin-top: 8px; }
+    .readlist-books .item .btn-edit-book-description span { font-size: 28px; vertical-align: text-bottom; font-weight: 300; color: #bfbfbf; }
+    .readlist-books .item .btn-edit-book-description:hover { color: #49afd0; }
+    .readlist-books .item .btn-edit-book-description:hover span { color: #49afd0; }
+
+    .readlist-books .item .btn-edit-book-description .icon {
+        display: inline-block;
+        width: 18px;
+        height: 18px;
+        background: url('/img/readlist/btn-edit-description.svg') no-repeat;
+        vertical-align: middle;
+        margin-right: 7px;
+    }
+    .readlist-books .item .btn-edit-book-description:hover .icon { background: url('/img/readlist/btn-edit-description-blue.svg') no-repeat; }
+
+    .readlist-books .item .footer { color: #8c8c8c; overflow: hidden; margin-top: 12px; }
+    .readlist-books .item .footer .format { float: left; font-size: 12px; }
+    .readlist-books .item .footer .btn-book-delete { float: right; display: none; }
+
+    .readlist-books .item:hover .btn-book-delete { display: block; }
+    .readlist-books .item .btn-edit-book-description.pull-right { display: none; }
+    .readlist-books .item:hover .btn-edit-book-description.pull-right { display: block; }
+    .readlist-books .btn-save-book-description { position: relative; width: 100%; padding: 6px; margin: 8px 0 4px; }
+
+    .readlist-create {
+        display: flex;
+        cursor: pointer;
+        font-weight: bold;
+        font-size: 22px;
+        color: #49afd0;
+        text-align: center;
+        line-height: 2;
+        min-height: 214px;
+        flex: 0 1 auto;
+        align-items: center;
+        justify-content: center;
+        background: #f2f9fc;
+        border-radius: 8px;
+    }
+    .readlist-create:hover {color: #49afd0; }
+    .readlist-create-item:hover{border-color: #49afd0;}
+    .readlist-item:hover, .readlist-create:hover { background: #dbeff6; }
+
+
+    /* Add book modal */
+    .input-addbook-title-container { position: relative; }
+    .input-addbook-title-seach { position: relative; }
+    .input-addbook-title {
+        border: 1px solid #49afd0;
+        background: url(/img/readlist/ico-search.svg) 16px 16px no-repeat;
+        padding: 0px 128px 0 45px;
+        font-size: 16px;
+        font-weight: 400;
+        width: 100%;
+        height: 48px;
+        outline: none;
+    }
+    .btn-addbook-search {
+        background: #49afd0;
+        color: #fff;
+        position: absolute;
+        right: 0px;
+        top: 0px;
+        border: none;
+        font-size: 16px;
+        line-height: 48px;
+        outline: none;
+        padding: 0 20px;
+    }
+    .btn-addbook-search:hover { text-decoration: underline; }
+
+    .addbook-list {padding: 5px 0; margin: 20px 0; border-radius: 5px; border: 1px solid #aaa;}
+    .addbook-list .addbook-item {
+        background: #fff;
+        position: relative;
+        margin: 15px 0 0 0;
+        overflow: hidden;
+        min-height: 150px;
+        border-bottom: 1px solid #ddd;
+        padding-bottom: 15px;
+    }
+    .addbook-item .addbook-cover { float: left; max-height: 160px; margin-left: 10px; padding: 2px; border: 1px solid #efefef;}
+    .addbook-item .addbook-cover img { width: 90px; }
+    .addbook-item .addbook-info { margin-left: 120px; margin-right: 10px; overflow: hidden; font-size: 16px; }
+    .addbook-item .addbook-info .addbook-title { margin-bottom: 4px; }
+    .addbook-item .addbook-info .addbook-author { color: #49afd0; font-style: italic; width: 80%; margin-bottom: 12px; font-size: 14px; }
+    /*.addbook-item .addbook-info .addbook-stats { position: absolute; bottom: 16px; font-size: 12px; line-height: 2; }*/
+    .addbook-item .addbook-info .addbook-stats { font-size: 12px; line-height: 2; }
+    .addbook-stats div{display: inline-block; margin-right: 20px;text-transform: capitalize;}
+    /*.addbook-item .btn-addbook-container { position: absolute; right: 15px; bottom: 15px; }*/
+    .addbook-item .btn-addbook { position: relative; width: 170px; border-radius: 0;}
+    .btn-addbook-container .z-btn { border-radius: 0; width: 160px; font-weight: normal; }
+
+
+    /* Book info modal */
+    .viewbook-container { font-weight: 400; font-size: 14px; line-height: 24px; }
+    .viewbook-container .z-book-none-cover { position: relative; height: 190px; }
+    .viewbook .publisher { color: #8c8c8c; font-size: 14px; margin-bottom: 8px; }
+    .viewbook .title { display: inline-block; font-size: 16px; margin-bottom: 6px; }
+    .viewbook .author { margin-bottom: 18px; }
+    .viewbook .author a { color: #49afd0; font-style: italic; width: 80%; font-size: 14px; text-decoration: none; }
+    .viewbook .author a:hover { text-decoration: underline; }
+    .viewbook .cover img { width: 100%; border: 1px solid #f6f6f6; background: #fff; padding: 2px; }
+    .viewbook .description {line-height: 1.8;}
+    .viewbook .description p:first-child {padding-top: 0;}
+    .viewbook .book-info-container { min-height: 330px; }
+    .viewbook .book-info { overflow: hidden; margin-top: 20px; }
+    .viewbook .book-info .param { overflow: hidden; margin: 4px 0; }
+    .viewbook .book-info .param .key { font-size: 14px; color: #888;}
+    .viewbook .book-info .param .value { font-size: 14px; }
+
+    @media (max-width: 768px) {
+        .viewbook .book-info .param .key { padding-bottom: 6px; }
+        .viewbook .book-info .param .value { padding-bottom: 6px; }
+        .viewbook .book-rating-detail { width: 100%; margin: 0; }
+    }
+
+    .book-buttons-container { padding: 0 22px; }
+    .book-buttons-container .z-btn { margin-right: 18px;}
+    .book-buttons-container-xs .z-btn { width: 100%; }
+
+    .readlist-title input {
+        border: 1px solid #80d8e9;
+        border-radius: 3px;
+        margin-left: -4px;
+        padding-left: 4px;
+        width: 500px;
+        outline: none;
+        font-weight: bold;
+    }
+    .readlist-description textarea {
+        border: 1px solid #80d8e9;
+        border-radius: 3px;
+        padding-left: 4px;
+        width: 530px;
+        height: 70px;
+        outline: none;
+        margin-left: -4px;
+        margin-top: -4px;
+    }
+
+    @media (max-width: 768px) {
+        .readlist-title input { width: auto; }
+        .readlist-description textarea { width: auto; }
+    }
+
+    /* Infinite load spinner */
+    .page-load-status {
+        display: none; /* hidden by default */
+        padding-top: 20px;
+        text-align: center;
+        color: #777;
+    }
+    .loader-ellips {
+        font-size: 20px; /* change size here */
+        position: relative;
+        width: 4em;
+        height: 1em;
+        margin: 10px auto;
+    }
+
+    .loader-ellips__dot {
+        display: block;
+        width: 1em;
+        height: 1em;
+        border-radius: 0.5em;
+        background: #555; /* change color here */
+        position: absolute;
+        animation-duration: 0.5s;
+        animation-timing-function: ease;
+        animation-iteration-count: infinite;
+    }
+
+    .loader-ellips__dot:nth-child(1),
+    .loader-ellips__dot:nth-child(2) { left: 0; }
+    .loader-ellips__dot:nth-child(3) { left: 1.5em; }
+    .loader-ellips__dot:nth-child(4) { left: 3em; }
+
+    @keyframes reveal {
+        from { transform: scale(0.001); }
+        to { transform: scale(1); }
+    }
+
+    @keyframes slide {
+        to { transform: translateX(1.5em) }
+    }
+
+    .loader-ellips__dot:nth-child(1) {
+        animation-name: reveal;
+    }
+
+    .loader-ellips__dot:nth-child(2),
+    .loader-ellips__dot:nth-child(3) {
+        animation-name: slide;
+    }
+
+    .loader-ellips__dot:nth-child(4) {
+        animation-name: reveal;
+        animation-direction: reverse;
+    }
+
+    .addbook-item .addbook-info .addbook-title a,
+    .addbook-item .addbook-info .addbook-title a:link,
+    .addbook-item .addbook-info .addbook-title a:visited{
+        color: #000;
+        font-weight: 400;
+    }
+
+    .addbook-list .addbook-item:last-child{
+        border:0;
+        margin-bottom: 0;
+    }
+
+    .addbook-list .addbook-item:first-child{
+        margin-top: 5px;
+    }
+
+    .icon-3-dots { position: absolute; right: 20px; top: 28px; text-decoration: none; padding: 0 6px; display: inline-block; }
+
+    #readlist-title{text-transform: capitalize;}
+
+    #readlist-title,
+    #readlist-description {
+        word-break: break-word;
+        overflow-wrap: break-word;
+    }
+
+    .book-info-container .book-rating-detail {
+        padding-bottom: 18px;
+        padding-top: 0;
+    }
+    .book-info-container .book-rating-detail .book-rating {
+        cursor: default;
+    }
+    .btnCopyLink {
+        text-decoration: none;
+    }
+    .btnCopyLink:hover {
+        text-decoration: none;
+    }
+    .page-load-more {
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        border-bottom: 1px solid #49AFD0;
+        box-shadow: 0px 2px 8px #49AFD0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 1px;
+    }
+/*     background: #DBEFF6; */
+    .page-load-more .more-btn {
+        position: relative;
+        background: #FFFFFF;
+        border: 1px solid #49AFD0;
+        box-shadow: 0px 2px 8px rgba(73, 175, 208, 0.25);
+        border-radius: 100px;
+        padding: 8px 40px 8px 16px;
+        font-family: 'Stolzl Book', Helvetica, Arial, sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 17px;
+        color: #49AFD0;
+        cursor: pointer;
+        transition: background .3s;
+    }
+    .page-load-more .more-btn:hover {
+        background: #DBEFF6;
+    }
+    .page-load-more .more-btn i {
+        position: absolute;
+        right: 20px;
+        top: 50%;
+        color: #49AFD0;
+        transform: translateY(-50%);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 10px;
+        width: 10px;
+        height: 10px;
+    }
+    .page-load-more .more-btn i:before {
+        transform: rotate(90deg);
+    }
+</style>
+
+                                                                    </div>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+                <tr style="height:60px">
+                    <td id="footer" valign="top">
+                        <div class="container-fluid">
+<!-- footer begin -->
+<div class="row ">
+        <div class="footer-copyright w-5-hide w-3-3-show-inline">
+        <span class="w-5-hide w-1-3-show p-left-0">Since 2009.</span>
+        <span class="w-3-show w-1-3-hide p-left-0">Since 2009.</span>
+    </div>
+        <div class="footer-right w-5-hide w-4-3-show">
+        <div class="footer-nav-right" role="navigation">
+            <ul class="nav navbar-nav">
+                
+        <li class="icon-link">
+            <a href="/android" title="<div style='white-space: nowrap;'>ZLibrary app</div>" data-toggle="tooltip" data-html="true" onmouseover="$(this).tooltip('show')">
+                <img src="/img/icon-android.svg" class="colored" width="36" height="36">
+                <img src="/img/icon-android-gray.svg" class="gray" width="36" height="36">
+            </a>
+        </li>
+        
+        <li class="icon-link">
+            <button onclick="window.location.replace('http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion')" data-toggle="tooltip" data-placement="top" data-html="true" title="<div style='white-space: nowrap;'>TOR version</div>" onmouseover="$(this).tooltip('show')">
+                <img src="/img/icon-tor.svg" class="colored" width="36" height="36">
+                <img src="/img/icon-tor-gray.svg" class="gray" width="36" height="36">
+            </button>
+        </li>
+        
+        <li class="icon-link">
+            <button class="footer__button_telegram" data-toggle="tooltip" data-html="true" data-original-title="Telegram&nbsp;bot">
+                <img src="/img/icon-telegram-bot.svg" class="colored" width="36" height="36">
+                <img src="/img/icon-telegram-bot-grey.svg" class="gray" width="36" height="36">
+            </button>
+        </li>
+                    </ul>
+        </div>
+    </div>
+    <div class="footer-copyright w-3-3-show">
+        <span class="w-5-show w-3-hide p-left-0">自2009年起的免费图书馆.</span>
+        <span class="w-3-p-left-0">
+            <a class="footer-mailto" href="mailto: support@z-lib.se">support@z-lib.se</a>
+        </span>
+        <span class=""> <a href="/faq.php" class="footer-link"><i class="zlibicon-faq"></i><span>FAQ</span></a></span>
+        <span class=""> <a href="/blog/" class="footer-link"><i class="zlibicon-blog"></i><span>博客</span></a> <span class="new-label _top" style="padding: 0 4px;">new!</span></span>
+
+        <span style="white-space: nowrap;"> <a href="https://t.me/zlibrary_official" class="footer-link"><i class="zlibicon-telegram"></i><span>Official сhannel</span></a></span>
+    </div>
+    <div class="footer-right w-4-3-left">
+        <div class="footer-nav-right" role="navigation">
+            <ul class="nav navbar-nav">
+                
+        <li class="icon-link">
+            <a href="/android" title="<div style='white-space: nowrap;'>ZLibrary app</div>" data-toggle="tooltip" data-html="true" onmouseover="$(this).tooltip('show')">
+                <img src="/img/icon-android.svg" class="colored" width="36" height="36">
+                <img src="/img/icon-android-gray.svg" class="gray" width="36" height="36">
+            </a>
+        </li>
+        
+        <li class="icon-link">
+            <button onclick="window.location.replace('http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion')" data-toggle="tooltip" data-placement="top" data-html="true" title="<div style='white-space: nowrap;'>TOR version</div>" onmouseover="$(this).tooltip('show')">
+                <img src="/img/icon-tor.svg" class="colored" width="36" height="36">
+                <img src="/img/icon-tor-gray.svg" class="gray" width="36" height="36">
+            </button>
+        </li>
+        
+        <li class="icon-link">
+            <button class="footer__button_telegram" data-toggle="tooltip" data-html="true" data-original-title="Telegram&nbsp;bot">
+                <img src="/img/icon-telegram-bot.svg" class="colored" width="36" height="36">
+                <img src="/img/icon-telegram-bot-grey.svg" class="gray" width="36" height="36">
+            </button>
+        </li>
+                                            <li class="find-the-error w-4-hide">发现错误了                        <i class="tooltip-init" data-placement="top" title="<div style='width: 160px'>如发现文字错误，请划出错误部分并按下Ctrl Enter</div>"></i>
+                    </li>
+                                    <li><a href="/tos.php">Terms</a></li>
+                <li><a href="/dmca.php">DMCA</a></li>
+                <li class="dropup p-right-0 p-left-0" style="white-space: nowrap;">
+                    <a href="#" class="link-option dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+    汉语 <span class="caret"></span>
+</a>
+<ul class="dropdown-menu language-list" id="footerLanguageList">
+<li><a href="//booksc.eu/booklist/165858/538e6d?switchLanguage=en" data-language_code="en">English</a></li><li><a href="//booksc.eu/booklist/165858/538e6d?switchLanguage=ru" data-language_code="ru">Русский</a></li><li><a href="//booksc.eu/booklist/165858/538e6d?switchLanguage=es" data-language_code="es">Español</a></li><li><a href="//booksc.eu/booklist/165858/538e6d?switchLanguage=it" data-language_code="it">Italiano</a></li><li><a href="//booksc.eu/booklist/165858/538e6d?switchLanguage=el" data-language_code="el">ελληνικά</a></li><li><a href="//booksc.eu/booklist/165858/538e6d?switchLanguage=ar" data-language_code="ar">اللغة العربية</a></li><li><a href="//booksc.eu/booklist/165858/538e6d?switchLanguage=id" data-language_code="id">Bahasa Indonesia</a></li><li><a href="//booksc.eu/booklist/165858/538e6d?switchLanguage=ms" data-language_code="ms">Bahasa Malaysia</a></li><li><a href="//booksc.eu/booklist/165858/538e6d?switchLanguage=hi" data-language_code="hi">हिन्दी</a></li><li><a href="//booksc.eu/booklist/165858/538e6d?switchLanguage=de" data-language_code="de">Deutsch</a></li><li><a href="//booksc.eu/booklist/165858/538e6d?switchLanguage=fr" data-language_code="fr">Français</a></li><li><a href="//booksc.eu/booklist/165858/538e6d?switchLanguage=pt" data-language_code="pt">Português</a></li><li><a href="//booksc.eu/booklist/165858/538e6d?switchLanguage=uk" data-language_code="uk">Українська</a></li><li><a href="//booksc.eu/booklist/165858/538e6d?switchLanguage=pl" data-language_code="pl">Polski</a></li><li><a href="//booksc.eu/booklist/165858/538e6d?switchLanguage=zh" data-language_code="zh">汉语</a></li><li><a href="//booksc.eu/booklist/165858/538e6d?switchLanguage=ja" data-language_code="ja">日本語</a></li><li><a href="//booksc.eu/booklist/165858/538e6d?switchLanguage=vi" data-language_code="vi">Tiếng Việt</a></li><li><a href="//booksc.eu/booklist/165858/538e6d?switchLanguage=az" data-language_code="az">Azərbaycan Dili</a></li><li><a href="//booksc.eu/booklist/165858/538e6d?switchLanguage=hy" data-language_code="hy">Հայոց լեզու</a></li><li><a href="//booksc.eu/booklist/165858/538e6d?switchLanguage=th" data-language_code="th">ภาษาไทย</a></li><li><a href="//booksc.eu/booklist/165858/538e6d?switchLanguage=tr" data-language_code="tr">Türk Dili</a></li><li><a href="//booksc.eu/booklist/165858/538e6d?switchLanguage=ka" data-language_code="ka">ქართველი</a></li><li><a href="//booksc.eu/booklist/165858/538e6d?switchLanguage=bn" data-language_code="bn">বাংলা</a></li><li><a href="//booksc.eu/booklist/165858/538e6d?switchLanguage=ps" data-language_code="ps">پښتو</a></li><li><a href="//booksc.eu/booklist/165858/538e6d?switchLanguage=te" data-language_code="te">తెలుగు</a></li><li><a href="//booksc.eu/booklist/165858/538e6d?switchLanguage=ur" data-language_code="ur">اردو</a></li><li><a href="//booksc.eu/booklist/165858/538e6d?switchLanguage=ko" data-language_code="ko">한국어</a></li><li><a href="//booksc.eu/booklist/165858/538e6d?switchLanguage=sr" data-language_code="sr">Srpski</a></li><li><a href="//booksc.eu/booklist/165858/538e6d?switchLanguage=bg" data-language_code="bg">Български</a></li></ul>
+
+<script>
+    $(() => {
+        $('#footerLanguageList').click((event) => {
+            if (event.which !== 1) return
+
+            event.preventDefault()
+            const targetLanguageCode = event.originalEvent.target.dataset.language_code
+            if (targetLanguageCode == null) return
+
+            const languageChangeRequest = new Request(`/papi/user/language/${targetLanguageCode}`, {
+                method: 'PATCH',
+            })
+
+            new ZLibraryResponse(languageChangeRequest)
+                .success(() => location.reload())
+                .fetch()
+        })
+    })
+</script>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<!-- Telegram modal helper -->
+<div style="display: none" id="tg-connect-modal">
+    <div class="tg-connect-modal-content">
+    <div>
+        <div class="tg-connect-step">
+            <div class="tg-connect-line">
+                <span class="tg-connect-number"><span>1</span></span>
+                <span class="tg-connect-line__text">
+                        Follow <a target="_blank" href="https://t.me/BotFather">this link</a> or find "@BotFather" bot on Telegram                    </span>
+            </div>
+        </div>
+
+        <div class="tg-connect-step">
+            <div class="tg-connect-line">
+                <span class="tg-connect-number"><span>2</span></span>
+                <span class="tg-connect-line__text">
+                        Send /newbot command                    </span>
+            </div>
+            <div class="tg-connect-img">
+                <img src="/img/tg/pb1.png" alt=""/>
+            </div>
+        </div>
+
+        <div class="tg-connect-step">
+            <div class="tg-connect-line">
+                <span class="tg-connect-number"><span>3</span></span>
+                <span class="tg-connect-line__text">
+                        Specify a name for your chatbot                    </span>
+            </div>
+            <div class="tg-connect-img">
+                <img src="/img/tg/pb2.png" alt=""/>
+            </div>
+        </div>
+
+        <div class="tg-connect-step">
+            <div class="tg-connect-line">
+                <span class="tg-connect-number"><span>4</span></span>
+                <span class="tg-connect-line__text">
+                        Choose a username for the bot                    </span>
+            </div>
+            <div class="tg-connect-img">
+                <img src="/img/tg/pb3.png" alt=""/>
+            </div>
+        </div>
+
+        <div class="tg-connect-step">
+            <div class="tg-connect-line">
+                <span class="tg-connect-number"><span>5</span></span>
+                <span class="tg-connect-line__text">
+                        Copy an entire last message from BotFather and paste it here                    </span>
+            </div>
+            <div class="tg-connect-content">
+                <textarea class="tg-connect-textarea js-tg-textarea" style="width: 100%" rows="5"></textarea>
+            </div>
+        </div>
+    </div>
+    <div class="modal-footer">
+        <div class="tg-connect-footer">
+            <button class="tg-personal-btn _disabled js-tg-connect-btn" onclick="telegramPBBindAction(this)">Connect!</button>
+            <button onclick="$(this).closest('.modal').modal('hide')">关闭</button>
+        </div>
+    </div>
+</div></div>
+
+
+<script>
+    $(function () {
+        $('[data-toggle="tooltip"]').tooltip()
+    })
+</script></div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- icons preload hack -->
+        <i class="zlibicon-check" style="font-size: 1px; visibility: hidden; position: absolute; top: 0; left: 0;"></i>
+
+        <div class="modal fade" id="zlibrary-modal" role="dialog" tabindex="-1">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header hidden">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title"></h4>
+                    </div>
+                    <div class="modal-body" style="position: relative; min-height: 80px;"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal fade" id="zlibrary-modal-styled" role="dialog" tabindex="-1">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header hidden">
+                        <h1 class="modal-title"></h1>
+                    </div>
+                    <div class="modal-body"></div>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal fade" id="zlibrary-modal-auth" tabindex="-1" role="dialog">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-body"></div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- ggAdditionalHtml -->
+        <!--LiveInternet counter--><script type="text/javascript">
+new Image().src = "//counter.yadro.ru/hit;bookzz?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random();</script><!--/LiveInternet-->
+<iframe name="uploader" id="uploader" style="border:0px solid #ddd; width:90%; display:none;"></iframe><script></script>        <!-- /ggAdditionalHtml -->
+        
+                
+        <script>
+            if (typeof pagerOptions !== "undefined" && pagerOptions) {
+                $('div.paginator').paginator(pagerOptions);
+                let page = parseInt((new URL(document.location)).searchParams.get("page"));
+
+                if (page > pagerOptions.pagesTotal) {
+                    document.location.href = document.location.href.replace(/page=\d+/gi, "page="+pagerOptions.pagesTotal);
+                }
+            }
+        </script>
+    </body>
+</html>
 
