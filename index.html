@@ -28,7 +28,12 @@
 
 
 <!-- Import the basic jquery lib. -->   <!-- 导入基本的 jQuery 库 -->
-<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>                           <!-- 导入 jQuery 库的文件地址 -->
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>                           <!-- 导入 jQuery 库的文件地址 --> <!-- <script defer> 是一个 HTML 标签，
+                                                                                                                               用于异步下载 JavaScript 文件，
+                                                                                                                               并且该 JavaScript 文件将在 HTML 解析完毕之后执行。
+                                                                                                                               通常情况下，浏览器在解析 HTML 文件时，遇到 <script> 标签时，会暂停 HTML 的解析，
+                                                                                                                                直到 JavaScript 文件下载完成并执行完毕，才会继续解析 HTML 文件。
+
 <!-- Import the associated firebase lib which the order is fixed. -->                         <!-- 导入相关的 Firebase 库，顺序固定 -->
 <script defer src="https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js"></script>        <!-- 导入 Firebase 库中的 app 模块 -->
 <script defer src="https://www.gstatic.com/firebasejs/8.0.1/firebase-auth.js"></script>       <!-- 导入 Firebase 库中的 auth 模块 -->
