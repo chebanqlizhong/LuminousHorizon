@@ -2,78 +2,78 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1"><!-- 设置viewport视窗的宽度等于设备宽度，initial-scale=1 表示页面初始缩放比例为1 -->
     <title>Test</title>
   </head>
   <body>
-    <!-- Test Function -->
-    <input type="text" id="input">
-    <button type="button" id="btn">Send</button>
+<!-- Test Function -->            <!-- 这是一个测试函数，注释不会影响页面显示 -->
+<input type="text" id="input">   <!-- 文本框，ID 为 input -->
+<button type="button" id="btn">Send</button>                                    <!-- 按钮，类型为 button，ID 为 btn，文本为 Send -->
+<ul id="ul"></ul>                                                               <!-- 无序列表，ID 为 ul -->
+<br>   <!-- 换行符 -->
+<p>Select a file:  <input type="file" id="uplaodsFile" name="uploadsFile"></p>   <!-- 段落，包含文本 Select a file 和一个文件上传输入框，ID 为 uplaodsFile，name 为 uploadsFile -->
+<button type="button" id="uplaodFile">Upload</button>                            <!-- 按钮，类型为 button，ID 为 uplaodFile，文本为 Upload -->
+<br>   <!-- 换行符 -->
+<button type="button" id="uploadutf8">Upload Unit8Array</button>                 <!-- 按钮，类型为 button，ID 为 uploadutf8，文本为 Upload Unit8Array -->
+<br>   <!-- 换行符 -->
+<button type="button" id="uplaodString">Upload String</button>                   <!-- 按钮，类型为 button，ID 为 uplaodString，文本为 Upload String -->
+<br>   <!-- 换行符 -->
+<button type="button" id="delete">Delete</button>                                <!-- 按钮，类型为 button，ID 为 delete，文本为 Delete -->
+<br>   <!-- 换行符 -->
+<button type="button" id="show">Show Image</button>                              <!-- 按钮，类型为 button，ID 为 show，文本为 Show Image -->
+<br>   <!-- 换行符 -->
+<button type="button" id="next">Next Page</button>                               <!-- 按钮，类型为 button，ID 为 next，文本为 Next Page -->
+<ul id="imgUl"></ul>                                                             <!-- 无序列表，ID 为 imgUl -->
+<img id="shown_img" src="#" alt="">                                              <!-- 图片，ID 为 shown_img，初始路径为空，alt 属性为空字符串 -->
 
-    <ul id="ul"></ul>
 
-    <br>
+<!-- Import the basic jquery lib. -->   <!-- 导入基本的 jQuery 库 -->
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>                           <!-- 导入 jQuery 库的文件地址 -->
+<!-- Import the associated firebase lib which the order is fixed. -->                         <!-- 导入相关的 Firebase 库，顺序固定 -->
+<script defer src="https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js"></script>        <!-- 导入 Firebase 库中的 app 模块 -->
+<script defer src="https://www.gstatic.com/firebasejs/8.0.1/firebase-auth.js"></script>       <!-- 导入 Firebase 库中的 auth 模块 -->
+<script defer src="https://www.gstatic.com/firebasejs/8.0.1/firebase-storage.js"></script>    <!-- 导入 Firebase 库中的 storage 模块 -->
+<script defer src="https://www.gstatic.com/firebasejs/8.0.1/firebase-database.js"></script>   <!-- 导入 Firebase 库中的 database 模块 -->
+<!-- Set the firebsae config and initialize it. -->                                           <!-- 设置 Firebase 的配置并初始化 Firebase -->
+<script defer src="init-firebase.js"></script>                                                <!-- 导入初始化 Firebase 的脚本，defer 属性表示脚本将在页面完成解析后再执行 -->
+<!-- Test Code -->   <!-- 这是一个测试代码块 -->
 
-    <p>Select a file:  <input type="file" id="uplaodsFile" name="uploadsFile"></p>
-    <button type="button" id="uplaodFile">Upload</button>
+<script>
+    // Variables  // 定义变量
+    var usr = {};
 
-    <br>
-    <button type="button" id="uploadutf8">Upload Unit8Array</button>
-    <br>
-    <button type="button" id="uplaodString">Upload String</button>
-    <br>
-    <button type="button" id="delete">Delete</button>
-    <br>
-    <button type="button" id="show">Show Image</button>
-    <br>
-    <button type="button" id="next">Next Page</button>
-    
-    <ul id="imgUl"></ul>
-    <img id="shown_img" src="#" alt="">
-
-    <!-- Import the basic jquery lib. -->
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>  
-    <!-- Import the associated firebase lib which the order is fixed. -->
-    <script defer src="https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js"></script>
-    <script defer src="https://www.gstatic.com/firebasejs/8.0.1/firebase-auth.js"></script>
-    <script defer src="https://www.gstatic.com/firebasejs/8.0.1/firebase-storage.js"></script>
-    <script defer src="https://www.gstatic.com/firebasejs/8.0.1/firebase-database.js"></script>
-    <!-- Set the firebsae config and initialize it. -->
-    <script defer src="init-firebase.js"></script>
-    <!-- Test Code -->
-    <script>
-        // Variables
-        var usr = {};
-
-        $(document).ready(function() {
-            var dbRef = firebase.database(); // firebase.database() is jquery language.
-            var msgRef = dbRef.ref('/messages/');
+    $(document).ready(function() {                // 页面加载后执行函数
+        var dbRef = firebase.database();          // firebase.database() is jquery language. // 初始化数据库引用
+        var msgRef = dbRef.ref('/messages/');     // 获取 messages 节点的引用
+        
+        // Database - CRUD  // 数据库操作 - 增删改查
+        // Push (C)  // 增加（创建）
+        $('#btn').on('click', function() {        // 点击按钮触发事件
+            var msg = $('#input').val();          // 获取输入框中的值
             
-            // Database - CRUD
-            // Push (C)
-            $('#btn').on('click', function() {
-                var msg = $('#input').val();
-                
-                msgRef.push({
-                    account: msg
-                });
+            msgRef.push({                         // 将输入框中的值添加到数据库中
+                account: msg
             });
-            
-            // Read (R)
-            msgRef.on('value', function(snapshot) {
-            var val = snapshot.val();
+        });
+        
+        // Read (R)  // 读取
+        msgRef.on('value', function(snapshot) {  // 监听数据变化
+            var val = snapshot.val();            // 获取数据库中的数据
             let list = '';
             
-            $.each(val, function(i, item) {
+            $.each(val, function(i, item) {      // 遍历数据库中的数据
                 console.log('each: ', i, item.message);
                 list = `${list}<li>${item.message}`;
-                    list += `<button type="button" class="remove" data-key="${i}">Remove</button>`;
-                    list += `<input id="input_${i}"></input>`
-                    list += `<button type="button" class="update" data-key="${i}">Update</button>`
-                    list += `</li>`
+                    list += `<button type="button" class="remove" data-key="${i}">Remove</button>`;  // 添加删除按钮
+                    list += `<input id="input_${i}"></input>`;                                       // 添加输入框
+                    list += `<button type="button" class="update" data-key="${i}">Update</button>`;  // 添加更新按钮
+                    list += `</li>`;
                 });
-                $('#ul').html(list);
+                $('#ul').html(list);  // 将遍历后的数据添加到页面中
             });
+    });
+</script>
+
             
             // Update (U)
             $('#ul').on('click', '.update', function() {
